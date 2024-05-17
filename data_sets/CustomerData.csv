@@ -1,0 +1,839 @@
+CustomerID,Age,Gender,ProductQualityRating,StoreCleanlinessRating,StaffFriendlinessRating,OverallSatisfactionRating,PurchaseAmount,CustomerLocation,FrequencyofVisits,ProductCategory,MembershipStatus,CustomerLoyaltyScore
+1,34,Male,4,5,5,4,120.5,Oregon,Weekly,Electronics,Member,85
+2,28,Female,5,4,4,5,155.75,Texas,Monthly,Clothing,Non-Member,70
+3,42,Male,3,3,4,3,75.2,Vermont,Rarely,Groceries,Member,92
+4,50,Female,4,5,5,5,220,Alabama,Weekly,Electronics,Member,78
+5,22,Male,2,2,3,2,45.8,Nevada,Daily,Clothing,Non-Member,60
+6,38,Female,5,4,5,5,198.4,Delaware,Weekly,Electronics,Member,88
+7,45,Male,4,5,4,4,150.6,Wisconsin,Monthly,Groceries,Non-Member,75
+8,29,Female,3,3,3,3,85.3,Oklahoma,Rarely,Clothing,Member,68
+9,31,Male,4,4,5,4,110.25,Kentucky,Weekly,Electronics,Member,90
+10,26,Female,3,3,4,3,70.9,Arkansas,Monthly,Groceries,Non-Member,72
+11,35,Male,4,5,4,4,125,Idaho,Weekly,Electronics,Member,80
+12,29,Female,3,4,4,4,98.6,Nebraska,Monthly,Clothing,Non-Member,67
+13,44,Male,5,5,5,5,210.3,Rhode Island,Weekly,Electronics,Member,85
+14,27,Female,2,3,3,2,50.4,Hawaii,Rarely,Groceries,Non-Member,62
+15,39,Male,4,4,5,4,135.8,Mississippi,Monthly,Electronics,Member,88
+16,23,Female,3,3,4,3,75.9,Minnesota,Weekly,Clothing,Non-Member,73
+17,48,Male,5,5,5,5,198.75,New Jersey,Weekly,Electronics,Member,90
+18,30,Female,4,4,5,4,110.25,South Carolina,Monthly,Groceries,Member,82
+19,37,Male,4,5,4,4,125.4,New Mexico,Weekly,Electronics,Member,78
+20,25,Female,3,3,3,3,88.2,North Dakota,Monthly,Clothing,Non-Member,70
+21,33,Male,4,4,5,4,120.6,Iowa,Weekly,Electronics,Member,88
+22,28,Female,3,4,4,3,95.4,West Virginia,Rarely,Groceries,Non-Member,65
+23,40,Male,5,5,5,5,210.5,Ohio,Weekly,Electronics,Member,90
+24,24,Female,2,3,3,2,48.9,Montana,Daily,Clothing,Non-Member,63
+25,36,Male,4,4,5,4,135.1,Georgia,Weekly,Electronics,Member,80
+26,26,Female,3,3,4,3,71.2,Connecticut,Monthly,Groceries,Non-Member,72
+27,41,Male,4,5,4,4,125.9,Colorado,Weekly,Electronics,Member,86
+28,29,Female,3,4,4,3,99.6,North Carolina,Rarely,Clothing,Non-Member,68
+29,45,Male,5,5,5,5,205.4,Alaska,Weekly,Electronics,Member,92
+30,27,Female,2,3,3,2,49.8,Louisiana,Monthly,Groceries,Non-Member,64
+31,34,Male,4,5,4,4,25.99,Utah,Weekly,Electronics,Member,85
+32,28,Female,5,4,4,5,12.45,Kansas,Monthly,Clothing,Non-Member,70
+33,42,Male,3,3,4,3,54.78,Washington,Rarely,Groceries,Member,92
+34,50,Female,4,5,5,5,37.22,New Hampshire,Weekly,Electronics,Member,78
+35,22,Male,2,2,3,2,68.5,Illinois,Daily,Clothing,Non-Member,60
+36,38,Female,5,4,5,5,9.99,Missouri,Weekly,Electronics,Member,88
+37,45,Male,4,5,4,4,42.75,Arizona,Monthly,Groceries,Non-Member,75
+38,29,Female,3,3,3,3,14.63,Maine,Rarely,Clothing,Member,68
+39,31,Male,4,4,5,4,89.95,Maryland,Weekly,Electronics,Member,90
+40,26,Female,3,3,4,3,21.3,Michigan,Monthly,Groceries,Non-Member,72
+41,35,Male,4,5,4,4,63.15,Indiana,Weekly,Electronics,Member,80
+42,29,Female,3,4,4,4,6.5,Florida,Monthly,Clothing,Non-Member,67
+43,44,Male,5,5,5,5,47.89,Pennsylvania,Weekly,Electronics,Member,85
+44,27,Female,2,3,3,2,35.75,South Dakota,Rarely,Groceries,Non-Member,62
+45,39,Male,4,4,5,4,18.99,Wyoming,Monthly,Electronics,Member,88
+46,23,Female,3,3,4,3,57.6,New York,Weekly,Clothing,Non-Member,73
+47,48,Male,5,5,5,5,29.95,Virginia,Weekly,Electronics,Member,90
+48,30,Female,4,4,5,4,10.75,Tennessee,Monthly,Groceries,Member,82
+49,37,Male,4,5,4,4,72.88,Massachusetts,Weekly,Electronics,Member,78
+50,25,Female,3,3,3,3,53.25,California,Monthly,Clothing,Non-Member,70
+51,33,Male,4,4,5,4,23.45,Florida,Weekly,Electronics,Member,88
+52,28,Female,3,4,4,3,8.99,New York,Rarely,Clothing,Non-Member,68
+53,45,Male,5,5,5,5,61.75,Texas,Weekly,Electronics,Member,92
+54,27,Female,2,3,3,2,33.2,Florida,Monthly,Groceries,Non-Member,64
+55,32,Male,4,5,4,4,44.5,California,Weekly,Electronics,Member,85
+56,47,Female,5,4,4,5,67.25,New York,Monthly,Clothing,Non-Member,70
+57,25,Male,3,3,4,3,15.75,Wisconsin,Rarely,Groceries,Member,92
+58,56,Female,4,5,5,5,37.99,Oklahoma,Weekly,Electronics,Member,78
+59,41,Male,2,2,3,2,9.49,Kentucky,Daily,Clothing,Non-Member,60
+60,19,Female,5,4,5,5,50,Arkansas,Weekly,Electronics,Member,88
+61,38,Male,4,5,4,4,28.75,Idaho,Monthly,Groceries,Non-Member,75
+62,64,Female,3,3,3,3,66.35,Nebraska,Rarely,Clothing,Member,68
+63,22,Male,4,4,5,4,17.5,Rhode Island,Weekly,Electronics,Member,90
+64,50,Female,3,3,4,3,41.99,Hawaii,Monthly,Groceries,Non-Member,72
+65,35,Male,4,5,4,4,12.3,Mississippi,Weekly,Electronics,Member,80
+66,29,Female,3,4,4,4,78.6,Minnesota,Monthly,Clothing,Non-Member,67
+67,53,Male,5,5,5,5,20.25,New Jersey,Weekly,Electronics,Member,85
+68,44,Female,2,3,3,2,52.45,South Carolina,Rarely,Groceries,Non-Member,62
+69,26,Male,4,4,5,4,31.8,New Mexico,Monthly,Electronics,Member,88
+70,60,Female,3,3,4,3,5.99,North Dakota,Weekly,Clothing,Non-Member,73
+71,34,Male,5,5,5,5,48.75,Iowa,Weekly,Electronics,Member,90
+72,48,Female,4,4,5,4,22.95,West Virginia,Monthly,Groceries,Member,82
+73,21,Male,4,5,4,4,59.99,Ohio,Weekly,Electronics,Member,78
+74,57,Female,3,3,3,3,34.25,Montana,Monthly,Clothing,Non-Member,70
+75,31,Male,4,4,5,4,25.5,Georgia,Weekly,Electronics,Member,88
+76,40,Female,3,4,4,3,73.4,Connecticut,Rarely,Clothing,Non-Member,68
+77,49,Male,5,5,5,5,14.99,Colorado,Weekly,Electronics,Member,92
+78,18,Female,2,3,3,2,45.7,North Carolina,Monthly,Groceries,Non-Member,64
+79,45,Male,4,5,4,4,10.25,Alaska,Weekly,Electronics,Member,85
+80,58,Female,5,4,4,5,64.99,Louisiana,Monthly,Clothing,Non-Member,70
+81,30,Male,3,3,4,3,38.25,Utah,Rarely,Groceries,Member,92
+82,55,Female,4,5,5,5,19.5,Florida,Weekly,Electronics,Member,78
+83,27,Male,2,2,3,2,87.75,California,Daily,Clothing,Non-Member,60
+84,63,Female,5,4,5,5,7.45,New York,Weekly,Electronics,Member,88
+85,37,Male,4,4,5,4,51.6,Texas,Monthly,Groceries,Non-Member,75
+86,51,Female,3,3,3,3,27.99,Florida,Rarely,Clothing,Member,68
+87,23,Male,4,4,5,4,56.25,California,Weekly,Electronics,Member,90
+88,42,Female,3,3,4,3,30.8,New York,Monthly,Groceries,Non-Member,72
+89,20,Male,4,5,4,4,9.25,Texas,Weekly,Electronics,Member,80
+90,52,Female,3,4,4,4,43.99,California,Monthly,Clothing,Non-Member,67
+91,33,Male,5,5,5,5,16.5,New York,Weekly,Electronics,Member,85
+92,59,Female,2,3,3,2,69.95,Florida,Rarely,Groceries,Non-Member,62
+93,24,Male,4,4,5,4,26.25,California,Monthly,Electronics,Member,88
+94,43,Female,3,3,4,3,49.75,Texas,Weekly,Clothing,Non-Member,73
+95,28,Male,5,5,5,5,11.99,New York,Weekly,Electronics,Member,90
+96,36,Female,4,4,5,4,32.45,Florida,Monthly,Groceries,Member,82
+97,46,Male,4,5,4,4,79.5,California,Weekly,Electronics,Member,78
+98,54,Female,3,3,3,3,36.75,New York,Monthly,Clothing,Non-Member,70
+99,39,Male,4,4,5,4,8.9,Florida,Weekly,Electronics,Member,88
+100,61,Female,3,4,4,3,55.99,New York,Rarely,Clothing,Non-Member,68
+101,65,Male,4,5,5,4,24.6,California,Weekly,Electronics,Member,85
+102,62,Female,5,4,4,5,65.25,New York,Monthly,Clothing,Non-Member,70
+103,67,Male,3,3,4,3,13.75,Texas,Rarely,Groceries,Member,92
+104,70,Female,4,5,5,5,58.2,Florida,Weekly,Electronics,Member,78
+105,22,Male,2,2,3,2,31.99,California,Daily,Clothing,Non-Member,60
+106,38,Female,5,4,5,5,74.99,New York,Weekly,Electronics,Member,88
+107,45,Male,4,5,4,4,40.25,Texas,Monthly,Groceries,Non-Member,75
+108,29,Female,3,3,3,3,21.75,Florida,Rarely,Clothing,Member,68
+109,28,Male,4,4,5,4,47.5,California,Weekly,Electronics,Member,90
+110,45,Female,3,3,4,3,12.95,New York,Monthly,Groceries,Non-Member,72
+111,36,Male,4,5,4,4,37.8,Texas,Weekly,Electronics,Member,80
+112,22,Female,3,4,4,4,63.99,California,Monthly,Clothing,Non-Member,67
+113,57,Male,5,5,5,5,18.25,New York,Weekly,Electronics,Member,85
+114,33,Female,2,3,3,2,53.99,Florida,Rarely,Groceries,Non-Member,62
+115,50,Male,4,4,5,4,29.8,California,Monthly,Electronics,Member,88
+116,41,Female,3,3,4,3,6.75,Texas,Weekly,Clothing,Non-Member,73
+117,64,Male,5,5,5,5,46.99,New York,Weekly,Electronics,Member,90
+118,19,Female,4,4,5,4,10.5,Florida,Monthly,Groceries,Member,82
+119,53,Male,4,5,4,4,70.25,California,Weekly,Electronics,Member,78
+120,29,Female,3,3,3,3,34.99,New York,Monthly,Clothing,Non-Member,70
+121,38,Male,4,4,5,4,42.5,Texas,Weekly,Electronics,Member,88
+122,48,Female,3,4,4,3,8.25,Florida,Rarely,Groceries,Non-Member,65
+123,25,Male,5,5,5,5,60.99,California,Weekly,Electronics,Member,90
+124,60,Female,2,3,3,2,27.6,New York,Daily,Clothing,Non-Member,63
+125,31,Male,4,4,5,4,51.75,Texas,Weekly,Electronics,Member,80
+126,56,Female,3,3,4,3,15.99,Florida,Monthly,Groceries,Non-Member,72
+127,37,Male,4,5,4,4,35.99,California,Weekly,Electronics,Member,86
+128,24,Female,3,4,4,3,76.25,New York,Rarely,Clothing,Non-Member,68
+129,42,Male,5,5,5,5,22.5,Texas,Weekly,Electronics,Member,92
+130,47,Female,2,3,3,2,54.99,Florida,Monthly,Groceries,Non-Member,64
+131,32,Male,4,5,4,4,,California,Weekly,Electronics,Member,85
+132,55,Female,5,4,4,5,155.75,New York,Monthly,Clothing,Non-Member,70
+133,27,Male,3,3,4,3,75.2,Texas,Rarely,Groceries,Member,92
+134,49,Female,4,5,5,5,220,Florida,Weekly,Electronics,Member,78
+135,23,Male,2,2,3,2,45.8,California,Daily,Clothing,Non-Member,60
+136,59,Female,5,4,5,5,198.4,New York,Weekly,Electronics,Member,88
+137,35,Male,4,5,4,4,150.6,Texas,Monthly,Groceries,Non-Member,75
+138,62,Female,3,3,3,3,85.3,Florida,Rarely,Clothing,Member,68
+139,30,Male,4,4,5,4,110.25,California,Weekly,Electronics,Member,90
+140,43,Female,3,3,4,3,70.9,New York,Monthly,Groceries,Non-Member,72
+141,21,Male,4,5,4,4,125,North Carolina,Weekly,Electronics,Member,80
+142,68,Female,3,4,4,4,98.6,Alaska,Monthly,Clothing,Non-Member,67
+143,34,Male,5,5,5,5,210.3,Louisiana,Weekly,Electronics,Member,85
+144,26,Female,2,3,3,2,50.4,Utah,Rarely,Groceries,Non-Member,62
+145,46,Male,4,4,5,4,135.8,Florida,Monthly,Electronics,Member,88
+146,52,Female,3,3,4,3,75.9,California,Weekly,Clothing,Non-Member,73
+147,39,Male,5,5,5,5,198.75,New York,Weekly,Electronics,Member,90
+148,44,Female,4,4,5,4,110.25,Texas,Monthly,Groceries,Member,82
+149,58,Male,4,5,4,4,125.4,Florida,Weekly,Electronics,Member,78
+150,61,Female,3,3,3,3,88.2,Nevada,Monthly,Clothing,Non-Member,70
+151,40,Male,4,4,5,4,120.6,Utah,Weekly,Electronics,Member,88
+152,54,Female,3,4,4,3,99.6,Oregon,Rarely,Clothing,Non-Member,68
+153,51,Male,5,5,5,5,205.4,New Hampshire,Weekly,Electronics,Member,92
+154,67,Female,2,3,3,2,49.8,West Virginia,Monthly,Groceries,Non-Member,64
+155,63,Male,4,5,4,4,120.5,Wisconsin,Weekly,Electronics,Member,85
+156,70,Female,5,4,4,5,155.75,Mississippi,Monthly,Clothing,Non-Member,70
+157,66,Male,3,3,4,3,75.2,Montana,Rarely,Groceries,Member,92
+158,20,Female,4,5,5,5,220,Kansas,Weekly,Electronics,Member,78
+159,22,Male,2,2,3,2,45.8,Idaho,Daily,Clothing,Non-Member,60
+160,38,Female,5,4,5,5,198.4,Alabama,Weekly,Electronics,Member,88
+161,45,Male,4,5,4,4,150.6,Connecticut,Monthly,Groceries,Non-Member,75
+162,29,Female,3,3,3,3,85.3,Texas,Rarely,Clothing,Member,68
+163,31,Male,4,4,5,4,110.25,Indiana,Weekly,Electronics,Member,90
+164,26,Female,3,3,4,3,70.9,Minnesota,Monthly,Groceries,Non-Member,72
+165,35,Male,4,5,4,4,125,South Carolina,Weekly,Electronics,Member,80
+166,29,Female,3,4,4,4,98.6,Rhode Island,Monthly,Clothing,Non-Member,67
+167,44,Male,5,5,5,5,210.3,Colorado,Weekly,Electronics,Member,85
+168,27,Female,2,3,3,2,50.4,Missouri,Rarely,Groceries,Non-Member,62
+169,39,Male,4,4,5,4,135.8,Delaware,Monthly,Electronics,Member,88
+170,23,Female,3,3,4,3,75.9,Maryland,Weekly,Clothing,Non-Member,73
+171,48,Male,5,5,5,5,198.75,Kentucky,Weekly,Electronics,Member,90
+172,30,Female,4,4,5,4,110.25,Iowa,Monthly,Groceries,Member,82
+173,37,Male,4,5,4,4,25.99,Nebraska,Weekly,Electronics,Member,78
+174,25,Female,3,3,3,3,12.45,Georgia,Monthly,Clothing,Non-Member,70
+175,33,Male,4,4,5,4,54.78,New Mexico,Weekly,Electronics,Member,88
+176,28,Female,3,4,4,3,37.22,South Dakota,Rarely,Clothing,Non-Member,68
+177,45,Male,5,5,5,5,68.5,Arizona,Weekly,Electronics,Member,92
+178,27,Female,2,3,3,2,9.99,Hawaii,Monthly,Groceries,Non-Member,64
+179,34,Male,4,5,4,4,42.75,Vermont,Weekly,Electronics,Member,85
+180,28,Female,5,4,4,5,14.63,Louisiana,Monthly,Clothing,Non-Member,70
+181,42,Male,3,3,4,3,89.95,North Carolina,Rarely,Groceries,Member,92
+182,50,Female,4,5,5,5,21.3,Arkansas,Weekly,Electronics,Member,78
+183,22,Male,2,2,3,2,63.15,Washington,Daily,Clothing,Non-Member,60
+184,38,Female,5,4,5,5,6.5,Michigan,Weekly,Electronics,Member,88
+185,33,Male,4,4,5,4,47.89,Maine,Monthly,Groceries,Non-Member,75
+186,29,Female,3,3,3,3,35.75,North Dakota,Rarely,Clothing,Member,68
+187,31,Male,4,4,5,4,18.99,Tennessee,Weekly,Electronics,Member,90
+188,26,Female,3,3,4,3,57.6,Ohio,Monthly,Groceries,Non-Member,72
+189,35,Male,4,5,4,4,29.95,Virginia,Weekly,Electronics,Member,80
+190,29,Female,3,4,4,4,10.75,New York,Monthly,Clothing,Non-Member,67
+191,44,Male,5,5,5,5,72.88,Oklahoma,Weekly,Electronics,Member,85
+192,27,Female,2,3,3,2,53.25,Florida,Rarely,Groceries,Non-Member,62
+193,39,Male,4,4,5,4,23.45,Alaska,Monthly,Electronics,Member,88
+194,23,Female,3,3,4,3,8.99,Illinois,Weekly,Clothing,Non-Member,73
+195,48,Male,5,5,5,5,61.75,California,Weekly,Electronics,Member,90
+196,30,Female,4,4,5,4,33.2,Pennsylvania,Monthly,Groceries,Member,82
+197,37,Male,4,5,4,4,44.5,New Jersey,Weekly,Electronics,Member,78
+198,37,Female,3,3,3,3,67.25,Massachusetts,Monthly,Clothing,Non-Member,70
+199,49,Male,4,4,5,4,15.75,Wyoming,Weekly,Electronics,Member,88
+200,28,Female,3,4,4,3,37.99,New York,Rarely,Clothing,Non-Member,68
+201,53,Male,4,5,5,4,9.49,California,Weekly,Electronics,Member,85
+202,22,Female,5,4,4,5,50,New York,Monthly,Clothing,Non-Member,70
+203,61,Male,3,3,4,3,28.75,Texas,Rarely,Groceries,Member,92
+204,44,Female,4,5,5,5,66.35,Florida,Weekly,Electronics,Member,78
+205,32,Male,2,2,3,2,17.5,California,Daily,Clothing,Non-Member,60
+206,56,Female,5,4,5,5,41.99,New York,Weekly,Electronics,Member,88
+207,19,Male,4,5,4,4,12.3,Nevada,Monthly,Groceries,Non-Member,75
+208,40,Female,3,3,3,3,78.6,Utah,Rarely,Clothing,Member,68
+209,67,Male,4,4,5,4,20.25,Oregon,Weekly,Electronics,Member,90
+210,25,Female,3,3,4,3,52.45,New Hampshire,Monthly,Groceries,Non-Member,72
+211,46,Male,4,5,4,4,31.8,West Virginia,Weekly,Electronics,Member,80
+212,31,Female,3,4,4,4,5.99,Wisconsin,Monthly,Clothing,Non-Member,67
+213,58,Male,5,5,5,5,48.75,Mississippi,Weekly,Electronics,Member,85
+214,36,Female,2,3,3,2,22.95,Montana,Rarely,Groceries,Non-Member,62
+215,27,Male,4,4,5,4,59.99,Kansas,Monthly,Electronics,Member,88
+216,65,Female,3,3,4,3,34.25,Idaho,Weekly,Clothing,Non-Member,73
+217,41,Male,5,5,5,5,25.5,Alabama,Weekly,Electronics,Member,90
+218,30,Female,4,4,5,4,73.4,Connecticut,Monthly,Groceries,Member,82
+219,50,Male,4,5,4,4,14.99,Texas,Weekly,Electronics,Member,78
+220,23,Female,3,3,3,3,45.7,Indiana,Monthly,Clothing,Non-Member,70
+221,35,Male,4,4,5,4,10.25,Minnesota,Weekly,Electronics,Member,88
+222,60,Female,3,4,4,3,64.99,South Carolina,Rarely,Groceries,Non-Member,65
+223,55,Male,5,5,5,5,38.25,Rhode Island,Weekly,Electronics,Member,90
+224,33,Female,2,3,3,2,19.5,Colorado,Daily,Clothing,Non-Member,63
+225,47,Male,4,4,5,4,87.75,Missouri,Weekly,Electronics,Member,80
+226,24,Female,3,3,4,3,7.45,Delaware,Monthly,Groceries,Non-Member,72
+227,38,Male,4,5,4,4,51.6,Maryland,Weekly,Electronics,Member,86
+228,54,Female,3,4,4,3,27.99,Kentucky,Rarely,Clothing,Non-Member,68
+229,62,Male,5,5,5,5,56.25,Iowa,Weekly,Electronics,Member,92
+230,48,Female,2,3,3,2,30.8,Nebraska,Monthly,Groceries,Non-Member,64
+231,29,Male,4,5,4,4,9.25,Georgia,Weekly,Electronics,Member,85
+232,43,Female,5,4,4,5,43.99,New Mexico,Monthly,Clothing,Non-Member,70
+233,21,Male,3,3,4,3,16.5,South Dakota,Rarely,Groceries,Member,92
+234,64,Female,4,5,5,5,69.95,Arizona,Weekly,Electronics,Member,78
+235,34,Male,2,2,3,2,26.25,Hawaii,Daily,Clothing,Non-Member,60
+236,26,Female,5,4,5,5,49.75,Vermont,Weekly,Electronics,Member,88
+237,52,Male,4,5,4,4,11.99,Louisiana,Monthly,Groceries,Non-Member,75
+238,39,Female,3,3,3,3,32.45,North Carolina,Rarely,Clothing,Member,68
+239,68,Male,4,4,5,4,79.5,Arkansas,Weekly,Electronics,Member,90
+240,42,Female,3,3,4,3,36.75,Washington,Monthly,Groceries,Non-Member,72
+241,70,Male,4,5,4,4,8.9,Michigan,Weekly,Electronics,Member,80
+242,59,Female,3,4,4,4,55.99,Maine,Monthly,Clothing,Non-Member,67
+243,45,Male,5,5,5,5,24.6,North Dakota,Weekly,Electronics,Member,85
+244,51,Female,2,3,3,2,65.25,Tennessee,Rarely,Groceries,Non-Member,62
+245,57,Male,4,4,5,4,13.75,Ohio,Monthly,Electronics,Member,88
+246,63,Female,3,3,4,3,58.2,Virginia,Weekly,Clothing,Non-Member,73
+247,66,Male,5,5,5,5,31.99,New York,Weekly,Electronics,Member,90
+248,30,Female,4,4,5,4,74.99,Oklahoma,Monthly,Groceries,Member,82
+249,37,Male,4,5,4,4,40.25,Florida,Weekly,Electronics,Member,78
+250,25,Female,3,3,3,3,21.75,Alaska,Monthly,Clothing,Non-Member,70
+251,33,Male,4,4,5,4,47.5,Illinois,Weekly,Electronics,Member,88
+252,28,Female,3,4,4,3,12.95,California,Rarely,Clothing,Non-Member,68
+253,45,Male,5,5,5,5,37.8,Pennsylvania,Weekly,Electronics,Member,92
+254,27,Female,2,3,3,2,63.99,New Jersey,Monthly,Groceries,Non-Member,64
+255,34,Male,4,5,4,4,18.25,Massachusetts,Weekly,Electronics,Member,85
+256,28,Female,5,4,4,5,53.99,Wyoming,Monthly,Clothing,Non-Member,70
+257,42,Male,3,3,4,3,29.8,Texas,Rarely,Groceries,Member,92
+258,50,Female,4,5,5,5,6.75,Florida,Weekly,Electronics,Member,78
+259,22,Male,2,2,3,2,46.99,California,Daily,Clothing,Non-Member,60
+260,38,Female,5,4,5,5,10.5,New York,Weekly,Electronics,Member,88
+261,45,Male,4,5,4,4,70.25,Texas,Monthly,Groceries,Non-Member,75
+262,29,Female,3,3,3,3,34.99,Florida,Rarely,Clothing,Member,68
+263,31,Male,4,4,5,4,42.5,California,Weekly,Electronics,Member,90
+264,26,Female,3,3,4,3,8.25,Kansas,Monthly,Groceries,Non-Member,72
+265,35,Male,4,5,4,4,60.99,South Dakota,Weekly,Electronics,Member,80
+266,29,Female,3,4,4,4,27.6,Vermont,Monthly,Clothing,Non-Member,67
+267,44,Male,5,5,5,5,51.75,Maryland,Weekly,Electronics,Member,85
+268,27,Female,2,3,3,2,15.99,Oregon,Rarely,Groceries,Non-Member,62
+269,39,Male,4,4,5,4,35.99,Colorado,Monthly,Electronics,Member,88
+270,23,Female,3,3,4,3,76.25,Nevada,Weekly,Clothing,Non-Member,73
+271,48,Male,5,5,5,5,22.5,Arkansas,Weekly,Electronics,Member,90
+272,30,Female,4,4,5,4,54.99,North Carolina,Monthly,Groceries,Member,82
+273,37,Male,4,5,4,4,,Ohio,Weekly,Electronics,Member,78
+274,25,Female,3,3,3,3,88.2,New Mexico,Monthly,Clothing,Non-Member,70
+275,33,Male,4,4,5,4,120.6,Idaho,Weekly,Electronics,Member,88
+276,28,Female,3,4,4,3,99.6,Indiana,Rarely,Clothing,Non-Member,68
+277,45,Male,5,5,5,5,205.4,Kentucky,Weekly,Electronics,Member,92
+278,27,Female,2,3,3,2,49.8,West Virginia,Monthly,Groceries,Non-Member,64
+279,34,Male,4,5,4,4,120.5,Oklahoma,Weekly,Electronics,Member,85
+280,28,Female,5,4,4,5,155.75,Wisconsin,Monthly,Clothing,Non-Member,70
+281,42,Male,3,3,4,3,75.2,Rhode Island,Rarely,Groceries,Member,92
+282,50,Female,4,5,5,5,220,New Hampshire,Weekly,Electronics,Member,78
+283,22,Male,2,2,3,2,45.8,Missouri,Daily,Clothing,Non-Member,60
+284,38,Female,5,4,5,5,198.4,Georgia,Weekly,Electronics,Member,88
+285,33,Male,4,4,5,4,29.95,Alabama,Monthly,Groceries,Non-Member,75
+286,29,Female,3,3,3,3,16.75,Hawaii,Rarely,Clothing,Member,68
+287,31,Male,4,4,5,4,62.5,Iowa,Weekly,Electronics,Member,90
+288,26,Female,3,3,4,3,8.49,Minnesota,Monthly,Groceries,Non-Member,72
+289,35,Male,4,5,4,4,45.25,Louisiana,Weekly,Electronics,Member,80
+290,29,Female,3,4,4,4,21.99,Michigan,Monthly,Clothing,Non-Member,67
+291,44,Male,5,5,5,5,37.6,Delaware,Weekly,Electronics,Member,85
+292,27,Female,2,3,3,2,12.85,Utah,Rarely,Groceries,Non-Member,62
+293,39,Male,4,4,5,4,54.3,Texas,Monthly,Electronics,Member,88
+294,23,Female,3,3,4,3,31.45,Maine,Weekly,Clothing,Non-Member,73
+295,48,Male,5,5,5,5,67.99,Montana,Weekly,Electronics,Member,90
+296,30,Female,4,4,5,4,9.75,Arizona,Monthly,Groceries,Member,82
+297,37,Male,4,5,4,4,50.8,Washington,Weekly,Electronics,Member,78
+298,25,Female,3,3,3,3,18.25,Mississippi,Monthly,Clothing,Non-Member,70
+299,33,Male,4,4,5,4,74.5,Illinois,Weekly,Electronics,Member,88
+300,28,Female,3,4,4,3,6.99,North Dakota,Rarely,Clothing,Non-Member,68
+301,34,Male,4,5,5,4,43.75,Tennessee,Weekly,Electronics,Member,85
+302,28,Female,5,4,4,5,26.3,Virginia,Monthly,Clothing,Non-Member,70
+303,42,Male,3,3,4,3,58.95,Pennsylvania,Rarely,Groceries,Member,92
+304,50,Female,4,5,5,5,14.5,Connecticut,Weekly,Electronics,Member,78
+305,22,Male,2,2,3,2,35.6,Nebraska,Daily,Clothing,Non-Member,60
+306,38,Female,5,4,5,5,23.99,Florida,Weekly,Electronics,Member,88
+307,45,Male,4,5,4,4,69.75,New York,Monthly,Groceries,Non-Member,75
+308,29,Female,3,3,3,3,11.25,New Jersey,Rarely,Clothing,Member,68
+309,31,Male,4,4,5,4,49.99,Massachusetts,Weekly,Electronics,Member,90
+310,26,Female,3,3,4,3,9.3,Alaska,Monthly,Groceries,Non-Member,72
+311,35,Male,4,5,4,4,61.85,California,Weekly,Electronics,Member,80
+312,29,Female,3,4,4,4,30.5,Wyoming,Monthly,Clothing,Non-Member,67
+313,44,Male,5,5,5,5,53.2,South Carolina,Weekly,Electronics,Member,85
+314,27,Female,2,3,3,2,17.99,Florida,Rarely,Groceries,Non-Member,62
+315,39,Male,4,4,5,4,39.75,California,Monthly,Electronics,Member,88
+316,23,Female,3,3,4,3,20.65,Texas,Weekly,Clothing,Non-Member,73
+317,48,Male,5,5,5,5,72.4,New York,Weekly,Electronics,Member,90
+318,30,Female,4,4,5,4,15.5,Florida,Monthly,Groceries,Member,82
+319,37,Male,4,5,4,4,47.6,California,Weekly,Electronics,Member,78
+320,25,Female,3,3,3,3,10.99,New York,Monthly,Clothing,Non-Member,70
+321,33,Male,4,4,5,4,65.75,Texas,Weekly,Electronics,Member,88
+322,28,Female,3,4,4,3,28.3,Florida,Rarely,Groceries,Non-Member,65
+323,40,Male,5,5,5,5,56.45,California,Weekly,Electronics,Member,90
+324,24,Female,2,3,3,2,13.75,New York,Daily,Clothing,Non-Member,63
+325,36,Male,4,4,5,4,33.6,Texas,Weekly,Electronics,Member,80
+326,26,Female,3,3,4,3,75.99,Florida,Monthly,Groceries,Non-Member,72
+327,41,Male,4,5,4,4,7.25,California,Weekly,Electronics,Member,86
+328,29,Female,3,4,4,3,41.85,New York,Rarely,Clothing,Non-Member,68
+329,45,Male,5,5,5,5,22.5,Texas,Weekly,Electronics,Member,92
+330,27,Female,2,3,3,2,64.99,Florida,Monthly,Groceries,Non-Member,64
+331,34,Male,4,5,4,4,29.3,California,Weekly,Electronics,Member,85
+332,28,Female,5,4,4,5,51.75,New York,Monthly,Clothing,Non-Member,70
+333,42,Male,3,3,4,3,8.6,Texas,Rarely,Groceries,Member,92
+334,50,Female,4,5,5,5,60.25,Florida,Weekly,Electronics,Member,78
+335,22,Male,2,2,3,2,27.99,California,Daily,Clothing,Non-Member,60
+336,38,Female,5,4,5,5,52.6,New York,Weekly,Electronics,Member,88
+337,45,Male,4,5,4,4,19.85,Texas,Monthly,Groceries,Non-Member,75
+338,29,Female,3,3,3,3,38.5,Florida,Rarely,Clothing,Member,68
+339,31,Male,4,4,5,4,24.75,Kansas,Weekly,Electronics,Member,90
+340,26,Female,3,3,4,3,66.3,South Dakota,Monthly,Groceries,Non-Member,72
+341,35,Male,4,5,4,4,12.99,Vermont,Weekly,Electronics,Member,80
+342,29,Female,3,4,4,4,46.5,Maryland,Monthly,Clothing,Non-Member,67
+343,44,Male,5,5,5,5,9.85,Oregon,Weekly,Electronics,Member,85
+344,27,Female,2,3,3,2,70.99,Colorado,Rarely,Groceries,Non-Member,62
+345,39,Male,4,4,5,4,31.99,Nevada,Monthly,Electronics,Member,88
+346,23,Female,3,3,4,3,57.3,Arkansas,Weekly,Clothing,Non-Member,73
+347,48,Male,5,5,5,5,15.25,North Carolina,Weekly,Electronics,Member,90
+348,30,Female,4,4,5,4,40.99,Ohio,Monthly,Groceries,Member,82
+349,37,Male,4,5,4,4,10.25,New Mexico,Weekly,Electronics,Member,78
+350,25,Female,3,3,3,3,63.6,Idaho,Monthly,Clothing,Non-Member,70
+351,33,Male,4,4,5,4,32.85,Indiana,Weekly,Electronics,Member,88
+352,28,Female,3,4,4,3,73.99,Kentucky,Rarely,Clothing,Non-Member,68
+353,37,Male,5,5,5,5,14.99,West Virginia,Weekly,Electronics,Member,92
+354,49,Female,2,3,3,2,48.3,Oklahoma,Monthly,Groceries,Non-Member,64
+355,28,Male,4,5,4,4,11.75,Wisconsin,Weekly,Electronics,Member,85
+356,53,Female,5,4,4,5,55.99,Rhode Island,Monthly,Clothing,Non-Member,70
+357,22,Male,3,3,4,3,25.99,New Hampshire,Rarely,Groceries,Member,92
+358,61,Female,4,5,5,5,59.85,Missouri,Weekly,Electronics,Member,78
+359,44,Male,2,2,3,2,17.5,Georgia,Daily,Clothing,Non-Member,60
+360,32,Female,5,4,5,5,44.99,Alabama,Weekly,Electronics,Member,88
+361,56,Male,4,5,4,4,21.25,Hawaii,Monthly,Groceries,Non-Member,75
+362,19,Female,3,3,3,3,68.3,Iowa,Rarely,Clothing,Member,68
+363,40,Male,4,4,5,4,8.75,Minnesota,Weekly,Electronics,Member,90
+364,67,Female,3,3,4,3,50.99,Louisiana,Monthly,Groceries,Non-Member,72
+365,25,Male,4,5,4,4,26.75,Michigan,Weekly,Electronics,Member,80
+366,46,Female,3,4,4,4,51.25,Delaware,Monthly,Clothing,Non-Member,67
+367,31,Male,5,5,5,5,36.99,Utah,Weekly,Electronics,Member,85
+368,58,Female,2,3,3,2,19.3,Texas,Rarely,Groceries,Non-Member,62
+369,36,Male,4,4,5,4,42.25,Maine,Monthly,Electronics,Member,88
+370,27,Female,3,3,4,3,22.99,Montana,Weekly,Clothing,Non-Member,73
+371,65,Male,5,5,5,5,74.25,Arizona,Weekly,Electronics,Member,90
+372,41,Female,4,4,5,4,9.5,Washington,Monthly,Groceries,Member,82
+373,30,Male,4,5,4,4,66.99,Mississippi,Weekly,Electronics,Member,78
+374,50,Female,3,3,3,3,30.99,Illinois,Monthly,Clothing,Non-Member,70
+375,23,Male,4,4,5,4,53.75,North Dakota,Weekly,Electronics,Member,88
+376,35,Female,3,4,4,3,13.3,Tennessee,Rarely,Clothing,Non-Member,68
+377,60,Male,5,5,5,5,47.99,Virginia,Weekly,Electronics,Member,92
+378,55,Female,2,3,3,2,24.5,Pennsylvania,Monthly,Groceries,Non-Member,64
+379,33,Male,4,5,4,4,58.3,Connecticut,Weekly,Electronics,Member,85
+380,47,Female,5,4,4,5,16.3,Nebraska,Monthly,Clothing,Non-Member,70
+381,24,Male,3,3,4,3,39.99,Florida,Rarely,Groceries,Member,92
+382,38,Female,4,5,5,5,10.99,New York,Weekly,Electronics,Member,78
+383,54,Male,2,2,3,2,62.25,New Jersey,Daily,Clothing,Non-Member,60
+384,62,Female,5,4,5,5,33.99,Massachusetts,Weekly,Electronics,Member,88
+385,48,Male,4,4,5,4,,Alaska,Monthly,Groceries,Non-Member,75
+386,29,Female,3,3,3,3,85.3,California,Rarely,Clothing,Member,68
+387,43,Male,4,4,5,4,110.25,Wyoming,Weekly,Electronics,Member,90
+388,21,Female,3,3,4,3,70.9,South Carolina,Monthly,Groceries,Non-Member,72
+389,64,Male,4,5,4,4,125,Texas,Weekly,Electronics,Member,80
+390,34,Female,3,4,4,4,98.6,California,Monthly,Clothing,Non-Member,67
+391,26,Male,5,5,5,5,210.3,New York,Weekly,Electronics,Member,85
+392,52,Female,2,3,3,2,50.4,Florida,Rarely,Groceries,Non-Member,62
+393,39,Male,4,4,5,4,135.8,California,Monthly,Electronics,Member,88
+394,68,Female,3,3,4,3,99.99,Texas,Weekly,Clothing,Non-Member,73
+395,42,Male,5,5,5,5,84.75,New York,Weekly,Electronics,Member,90
+396,70,Female,4,4,5,4,125.5,Florida,Monthly,Groceries,Member,82
+397,59,Male,4,5,4,4,67.49,Hawaii,Weekly,Electronics,Member,78
+398,45,Female,3,3,3,3,175.25,Arizona,Monthly,Clothing,Non-Member,70
+399,51,Male,4,4,5,4,129.99,Maryland,Weekly,Electronics,Member,88
+400,57,Female,3,4,4,3,146.6,Nebraska,Rarely,Clothing,Non-Member,68
+401,63,Male,4,5,5,4,112.85,Georgia,Weekly,Electronics,Member,85
+402,66,Female,5,4,4,5,199.3,Oklahoma,Monthly,Clothing,Non-Member,70
+403,42,Male,3,3,4,3,131.45,Kentucky,Rarely,Groceries,Member,92
+404,50,Female,4,5,5,5,167.99,Wisconsin,Weekly,Electronics,Member,78
+405,22,Male,2,2,3,2,92.75,Vermont,Daily,Clothing,Non-Member,60
+406,38,Female,5,4,5,5,150.8,Idaho,Weekly,Electronics,Member,88
+407,45,Male,4,5,4,4,118.25,Oregon,Monthly,Groceries,Non-Member,75
+408,29,Female,3,3,3,3,174.5,New Mexico,Rarely,Clothing,Member,68
+409,31,Male,4,4,5,4,106.99,Indiana,Weekly,Electronics,Member,90
+410,26,Female,3,3,4,3,143.75,Tennessee,Monthly,Groceries,Non-Member,72
+411,35,Male,4,5,4,4,126.3,Missouri,Weekly,Electronics,Member,80
+412,29,Female,3,4,4,4,158.95,Connecticut,Monthly,Clothing,Non-Member,67
+413,44,Male,5,5,5,5,144.5,West Virginia,Weekly,Electronics,Member,85
+414,27,Female,2,3,3,2,135.6,New Hampshire,Rarely,Groceries,Non-Member,62
+415,39,Male,4,4,5,4,123.99,Washington,Monthly,Electronics,Member,88
+416,23,Female,3,3,4,3,169.75,North Dakota,Weekly,Clothing,Non-Member,73
+417,48,Male,5,5,5,5,101.25,Ohio,Weekly,Electronics,Member,90
+418,30,Female,4,4,5,4,149.99,Arkansas,Monthly,Groceries,Member,82
+419,37,Male,4,5,4,4,139.3,Delaware,Weekly,Electronics,Member,78
+420,25,Female,3,3,3,3,161.85,Mississippi,Monthly,Clothing,Non-Member,70
+421,33,Male,4,4,5,4,137.5,Colorado,Weekly,Electronics,Member,88
+422,28,Female,3,4,4,3,153.2,Utah,Rarely,Groceries,Non-Member,65
+423,40,Male,5,5,5,5,157.99,Maine,Weekly,Electronics,Member,90
+424,24,Female,2,3,3,2,139.75,Iowa,Daily,Clothing,Non-Member,63
+425,36,Male,4,4,5,4,120.65,Rhode Island,Weekly,Electronics,Member,80
+426,26,Female,3,3,4,3,172.4,North Carolina,Monthly,Groceries,Non-Member,72
+427,41,Male,4,5,4,4,115.5,Louisiana,Weekly,Electronics,Member,86
+428,29,Female,3,4,4,3,147.6,Michigan,Rarely,Clothing,Non-Member,68
+429,45,Male,5,5,5,5,159.99,South Dakota,Weekly,Electronics,Member,92
+430,27,Female,2,3,3,2,165.75,Alabama,Monthly,Groceries,Non-Member,64
+431,34,Male,4,5,4,4,128.3,Virginia,Weekly,Electronics,Member,85
+432,28,Female,5,4,4,5,156.45,Illinois,Monthly,Clothing,Non-Member,70
+433,42,Male,3,3,4,3,113.75,South Carolina,Rarely,Groceries,Member,92
+434,50,Female,4,5,5,5,133.6,Montana,Weekly,Electronics,Member,78
+435,22,Male,2,2,3,2,175.99,Texas,Daily,Clothing,Non-Member,60
+436,38,Female,5,4,5,5,127.25,New Jersey,Weekly,Electronics,Member,88
+437,45,Male,4,5,4,4,141.85,Minnesota,Monthly,Groceries,Non-Member,75
+438,29,Female,3,3,3,3,122.5,Pennsylvania,Rarely,Clothing,Member,68
+439,31,Male,4,4,5,4,164.99,Alaska,Weekly,Electronics,Member,90
+440,26,Female,3,3,4,3,129.3,Wyoming,Monthly,Groceries,Non-Member,72
+441,35,Male,4,5,4,4,151.75,California,Weekly,Electronics,Member,80
+442,29,Female,3,4,4,4,138.6,Florida,Monthly,Clothing,Non-Member,67
+443,44,Male,5,5,5,5,160.25,Nevada,Weekly,Electronics,Member,85
+444,27,Female,2,3,3,2,147.99,Kansas,Rarely,Groceries,Non-Member,62
+445,39,Male,4,4,5,4,152.6,New York,Monthly,Electronics,Member,88
+446,23,Female,3,3,4,3,139.85,Massachusetts,Weekly,Clothing,Non-Member,73
+447,48,Male,5,5,5,5,138.5,New York,Weekly,Electronics,Member,90
+448,30,Female,4,4,5,4,144.75,Florida,Monthly,Groceries,Member,82
+449,37,Male,4,5,4,4,166.3,California,Weekly,Electronics,Member,78
+450,25,Female,3,3,3,3,112.99,New York,Monthly,Clothing,Non-Member,70
+451,33,Male,4,4,5,4,146.5,Florida,Weekly,Electronics,Member,88
+452,28,Female,3,4,4,3,139.85,New York,Rarely,Clothing,Non-Member,68
+453,45,Male,5,5,5,5,170.99,Texas,Weekly,Electronics,Member,92
+454,27,Female,2,3,3,2,131.99,Florida,Monthly,Groceries,Non-Member,64
+455,34,Male,4,5,4,4,157.3,California,Weekly,Electronics,Member,85
+456,28,Female,5,4,4,5,155.25,New York,Monthly,Clothing,Non-Member,70
+457,42,Male,3,3,4,3,140.99,Texas,Rarely,Groceries,Member,92
+458,50,Female,4,5,5,5,140.25,Florida,Weekly,Electronics,Member,78
+459,22,Male,2,2,3,2,163.6,California,Daily,Clothing,Non-Member,60
+460,38,Female,5,4,5,5,132.85,New York,Weekly,Electronics,Member,88
+461,45,Male,4,5,4,4,173.99,Texas,Monthly,Groceries,Non-Member,75
+462,29,Female,3,3,3,3,124.99,Florida,Rarely,Clothing,Member,68
+463,31,Male,4,4,5,4,148.3,California,Weekly,Electronics,Member,90
+464,26,Female,3,3,4,3,141.75,New York,Monthly,Groceries,Non-Member,72
+465,35,Male,4,5,4,4,155.99,Texas,Weekly,Electronics,Member,80
+466,29,Female,3,4,4,4,125.99,California,Monthly,Clothing,Non-Member,67
+467,44,Male,5,5,5,5,159.85,New York,Weekly,Electronics,Member,85
+468,27,Female,2,3,3,2,147.5,Hawaii,Rarely,Groceries,Non-Member,62
+469,39,Male,4,4,5,4,144.99,Arizona,Monthly,Electronics,Member,88
+470,23,Female,3,3,4,3,121.25,Maryland,Weekly,Clothing,Non-Member,73
+471,48,Male,5,5,5,5,168.3,Nebraska,Weekly,Electronics,Member,90
+472,30,Female,4,4,5,4,128.75,Georgia,Monthly,Groceries,Member,82
+473,37,Male,4,5,4,4,150.99,Oklahoma,Weekly,Electronics,Member,78
+474,25,Female,3,3,3,3,126.75,Kentucky,Monthly,Clothing,Non-Member,70
+475,33,Male,4,4,5,4,151.25,Wisconsin,Weekly,Electronics,Member,88
+476,28,Female,3,4,4,3,136.99,Vermont,Rarely,Clothing,Non-Member,68
+477,38,Male,5,5,5,5,119.3,Idaho,Weekly,Electronics,Member,92
+478,56,Female,2,3,3,2,142.25,Oregon,Monthly,Groceries,Non-Member,64
+479,27,Male,4,5,4,4,122.99,New Mexico,Weekly,Electronics,Member,85
+480,47,Female,5,4,4,5,174.25,Indiana,Monthly,Clothing,Non-Member,70
+481,31,Male,3,3,4,3,139.5,Tennessee,Rarely,Groceries,Member,92
+482,43,Female,4,5,5,5,166.99,Missouri,Weekly,Electronics,Member,78
+483,20,Male,2,2,3,2,130.99,Connecticut,Daily,Clothing,Non-Member,60
+484,65,Female,5,4,5,5,153.75,West Virginia,Weekly,Electronics,Member,88
+485,34,Male,4,4,5,4,133.3,New Hampshire,Monthly,Groceries,Non-Member,75
+486,53,Female,3,3,3,3,147.99,Washington,Rarely,Clothing,Member,68
+487,29,Male,4,4,5,4,144.5,North Dakota,Weekly,Electronics,Member,90
+488,61,Female,3,3,4,3,158.3,Ohio,Monthly,Groceries,Non-Member,72
+489,50,Male,4,5,4,4,116.3,Arkansas,Weekly,Electronics,Member,80
+490,25,Female,3,4,4,4,139.99,Delaware,Monthly,Clothing,Non-Member,67
+491,68,Male,5,5,5,5,150.99,Mississippi,Weekly,Electronics,Member,85
+492,22,Female,2,3,3,2,162.25,Colorado,Rarely,Groceries,Non-Member,62
+493,42,Male,4,4,5,4,133.99,Utah,Monthly,Electronics,Member,88
+494,35,Female,3,3,4,3,75.9,Maine,Weekly,Clothing,Non-Member,73
+495,44,Male,5,5,5,5,198.75,Iowa,Weekly,Electronics,Member,90
+496,59,Female,4,4,5,4,110.25,Rhode Island,Monthly,Groceries,Member,82
+497,37,Male,4,5,4,4,125.4,North Carolina,Weekly,Electronics,Member,78
+498,24,Female,3,3,3,3,88.2,Louisiana,Monthly,Clothing,Non-Member,70
+499,64,Male,4,4,5,4,120.6,Michigan,Weekly,Electronics,Member,88
+500,52,Female,3,4,4,3,99.6,South Dakota,Rarely,Clothing,Non-Member,68
+501,30,Female,5,4,4,5,155.75,Alabama,Monthly,Clothing,Non-Member,70
+502,49,Male,3,3,4,3,75.2,Virginia,Rarely,Groceries,Member,92
+503,40,Female,4,5,5,5,220,Illinois,Weekly,Electronics,Member,78
+504,46,Male,2,2,3,2,45.8,South Carolina,Daily,Clothing,Non-Member,60
+505,33,Female,5,4,5,5,198.4,Montana,Weekly,Electronics,Member,88
+506,58,Male,4,5,4,4,150.6,Texas,Monthly,Groceries,Non-Member,75
+507,32,Female,3,3,3,3,85.3,New Jersey,Rarely,Clothing,Member,68
+508,21,Male,4,4,5,4,110.25,Minnesota,Weekly,Electronics,Member,90
+509,48,Female,3,3,4,3,70.9,Pennsylvania,Monthly,Groceries,Non-Member,72
+510,67,Male,4,5,4,4,125,Alaska,Weekly,Electronics,Member,80
+511,26,Female,3,4,4,4,98.6,Wyoming,Monthly,Clothing,Non-Member,67
+512,62,Male,5,5,5,5,210.3,California,Weekly,Electronics,Member,85
+513,39,Female,2,3,3,2,50.4,Florida,Rarely,Groceries,Non-Member,62
+514,28,Male,4,4,5,4,135.8,Nevada,Monthly,Electronics,Member,88
+515,55,Female,3,3,4,3,75.9,Kansas,Weekly,Clothing,Non-Member,73
+516,54,Male,5,5,5,5,198.75,New York,Weekly,Electronics,Member,90
+517,36,Female,4,4,5,4,110.25,Massachusetts,Monthly,Groceries,Member,82
+518,60,Male,4,5,4,4,125.4,California,Weekly,Electronics,Member,78
+519,23,Female,3,3,3,3,88.2,New York,Monthly,Clothing,Non-Member,70
+520,41,Male,4,4,5,4,120.6,Florida,Weekly,Electronics,Member,88
+521,45,Female,3,4,4,3,99.6,New York,Rarely,Clothing,Non-Member,68
+522,51,Male,5,5,5,5,205.4,Texas,Weekly,Electronics,Member,92
+523,57,Female,2,3,3,2,49.8,Florida,Monthly,Groceries,Non-Member,64
+524,66,Male,4,5,4,4,120.5,California,Weekly,Electronics,Member,85
+525,63,Female,5,4,4,5,155.75,New York,Monthly,Clothing,Non-Member,70
+526,69,Male,3,3,4,3,75.2,Texas,Rarely,Groceries,Member,92
+527,50,Female,4,5,5,5,220,Florida,Weekly,Electronics,Member,78
+528,22,Male,2,2,3,2,45.8,California,Daily,Clothing,Non-Member,60
+529,38,Female,5,4,5,5,198.4,New York,Weekly,Electronics,Member,88
+530,45,Male,4,5,4,4,150.6,Texas,Monthly,Groceries,Non-Member,75
+531,29,Female,3,3,3,3,85.3,Florida,Rarely,Clothing,Member,68
+532,31,Male,4,4,5,4,110.25,California,Weekly,Electronics,Member,90
+533,26,Female,3,3,4,3,70.9,New York,Monthly,Groceries,Non-Member,72
+534,35,Male,4,5,4,4,125,Texas,Weekly,Electronics,Member,80
+535,29,Female,3,4,4,4,98.6,California,Monthly,Clothing,Non-Member,67
+536,44,Male,5,5,5,5,210.3,New York,Weekly,Electronics,Member,85
+537,27,Female,2,3,3,2,50.4,Montana,Rarely,Groceries,Non-Member,62
+538,39,Male,4,4,5,4,135.8,Tennessee,Monthly,Electronics,Member,88
+539,23,Female,3,3,4,3,75.9,Idaho,Weekly,Clothing,Non-Member,73
+540,42,Male,5,5,5,5,198.75,Vermont,Weekly,Electronics,Member,90
+541,56,Female,4,4,5,4,110.25,Utah,Monthly,Groceries,Member,82
+542,29,Male,4,5,4,4,125.4,Kansas,Weekly,Electronics,Member,78
+543,35,Female,3,3,3,3,88.2,New Hampshire,Monthly,Clothing,Non-Member,70
+544,67,Male,4,4,5,4,120.6,Rhode Island,Weekly,Electronics,Member,88
+545,23,Female,3,4,4,3,99.6,Arkansas,Rarely,Clothing,Non-Member,68
+546,50,Male,5,5,5,5,205.4,Delaware,Weekly,Electronics,Member,92
+547,38,Female,2,3,3,2,49.8,South Carolina,Monthly,Groceries,Non-Member,64
+548,61,Male,4,5,4,4,120.5,Washington,Weekly,Electronics,Member,85
+549,45,Female,5,4,4,5,155.75,Wisconsin,Monthly,Clothing,Non-Member,70
+550,27,Male,3,3,4,3,75.2,Maryland,Rarely,Groceries,Member,92
+551,49,Female,4,5,5,5,220,Missouri,Weekly,Electronics,Member,78
+552,32,Male,2,2,3,2,45.8,North Dakota,Daily,Clothing,Non-Member,60
+553,54,Female,5,4,5,5,198.4,New Jersey,Weekly,Electronics,Member,88
+554,40,Male,4,4,5,4,150.6,Indiana,Monthly,Groceries,Non-Member,75
+555,58,Female,3,3,3,3,85.3,Alabama,Rarely,Clothing,Member,68
+556,30,Male,4,4,5,4,110.25,Louisiana,Weekly,Electronics,Member,90
+557,47,Female,3,3,4,3,70.9,Michigan,Monthly,Groceries,Non-Member,72
+558,65,Male,4,5,4,4,125,Iowa,Weekly,Electronics,Member,80
+559,25,Female,3,4,4,4,98.6,Colorado,Monthly,Clothing,Non-Member,67
+560,33,Male,5,5,5,5,210.3,Nebraska,Weekly,Electronics,Member,85
+561,51,Female,2,3,3,2,50.4,Hawaii,Rarely,Groceries,Non-Member,62
+562,39,Male,4,4,5,4,189.99,Ohio,Monthly,Electronics,Member,88
+563,68,Female,3,3,4,3,165.75,Oregon,Weekly,Clothing,Non-Member,73
+564,44,Male,5,5,5,5,237.5,Virginia,Weekly,Electronics,Member,90
+565,21,Female,4,4,5,4,123.49,Kentucky,Monthly,Groceries,Member,82
+566,37,Male,4,5,4,4,290.25,South Dakota,Weekly,Electronics,Member,78
+567,70,Female,3,3,3,3,219.99,Minnesota,Monthly,Clothing,Non-Member,70
+568,22,Male,4,4,5,4,246.6,New Mexico,Weekly,Electronics,Member,88
+569,52,Female,3,4,4,3,212.85,North Carolina,Rarely,Clothing,Non-Member,68
+570,59,Male,4,5,5,4,299.3,Georgia,Weekly,Electronics,Member,85
+571,28,Female,5,4,4,5,231.45,Texas,Monthly,Clothing,Non-Member,70
+572,66,Male,3,3,4,3,267.99,Mississippi,Rarely,Groceries,Member,92
+573,46,Female,4,5,5,5,192.75,Nevada,Weekly,Electronics,Member,78
+574,34,Male,2,2,3,2,250.8,West Virginia,Daily,Clothing,Non-Member,60
+575,55,Female,5,4,5,5,218.25,Maine,Weekly,Electronics,Member,88
+576,64,Male,4,5,4,4,274.5,Arizona,Monthly,Groceries,Non-Member,75
+577,26,Female,3,3,3,3,206.99,Connecticut,Rarely,Clothing,Member,68
+578,41,Male,4,4,5,4,243.75,Illinois,Weekly,Electronics,Member,90
+579,60,Female,3,3,4,3,226.3,Oklahoma,Monthly,Groceries,Non-Member,72
+580,48,Male,4,5,4,4,258.95,Massachusetts,Weekly,Electronics,Member,80
+581,31,Female,3,4,4,4,244.5,Alaska,Monthly,Clothing,Non-Member,67
+582,53,Male,5,5,5,5,235.6,Pennsylvania,Weekly,Electronics,Member,85
+583,63,Female,2,3,3,2,223.99,California,Rarely,Groceries,Non-Member,62
+584,36,Male,4,4,5,4,269.75,Florida,Monthly,Electronics,Member,88
+585,24,Female,3,3,4,3,201.25,Wyoming,Weekly,Clothing,Non-Member,73
+586,57,Male,5,5,5,5,249.99,New York,Weekly,Electronics,Member,90
+587,43,Female,4,4,5,4,239.3,Florida,Monthly,Groceries,Member,82
+588,62,Male,4,5,4,4,261.85,California,Weekly,Electronics,Member,78
+589,69,Female,3,3,3,3,237.5,New York,Monthly,Clothing,Non-Member,70
+590,33,Male,4,4,5,4,253.2,Texas,Weekly,Electronics,Member,88
+591,28,Female,3,4,4,3,257.99,Florida,Rarely,Groceries,Non-Member,65
+592,40,Male,5,5,5,5,239.75,California,Weekly,Electronics,Member,90
+593,24,Female,2,3,3,2,220.65,New York,Daily,Clothing,Non-Member,63
+594,36,Male,4,4,5,4,272.4,Texas,Weekly,Electronics,Member,80
+595,26,Female,3,3,4,3,215.5,Florida,Monthly,Groceries,Non-Member,72
+596,41,Male,4,5,4,4,247.6,California,Weekly,Electronics,Member,86
+597,29,Female,3,4,4,3,259.99,New York,Rarely,Clothing,Non-Member,68
+598,45,Male,5,5,5,5,265.75,Texas,Weekly,Electronics,Member,92
+599,27,Female,2,3,3,2,228.3,Florida,Monthly,Groceries,Non-Member,64
+600,34,Male,4,5,4,4,256.45,California,Weekly,Electronics,Member,85
+601,28,Female,5,4,4,5,213.75,New York,Monthly,Clothing,Non-Member,70
+602,42,Male,3,3,4,3,233.6,Texas,Rarely,Groceries,Member,92
+603,50,Female,4,5,5,5,275.99,Florida,Weekly,Electronics,Member,78
+604,22,Male,2,2,3,2,227.25,California,Daily,Clothing,Non-Member,60
+605,38,Female,5,4,5,5,241.85,New York,Weekly,Electronics,Member,88
+606,45,Male,4,5,4,4,222.5,Texas,Monthly,Groceries,Non-Member,75
+607,29,Female,3,3,3,3,264.99,Florida,Rarely,Clothing,Member,68
+608,31,Male,4,4,5,4,229.3,California,Weekly,Electronics,Member,90
+609,26,Female,3,3,4,3,251.75,New York,Monthly,Groceries,Non-Member,72
+610,35,Male,4,5,4,4,238.6,Texas,Weekly,Electronics,Member,80
+611,29,Female,3,4,4,4,260.25,California,Monthly,Clothing,Non-Member,67
+612,44,Male,5,5,5,5,247.99,New York,Weekly,Electronics,Member,85
+613,27,Female,2,3,3,2,252.6,Florida,Rarely,Groceries,Non-Member,62
+614,39,Male,4,4,5,4,239.85,California,Monthly,Electronics,Member,88
+615,23,Female,3,3,4,3,238.5,Texas,Weekly,Clothing,Non-Member,73
+616,48,Male,5,5,5,5,244.75,New York,Weekly,Electronics,Member,90
+617,30,Female,4,4,5,4,266.3,Florida,Monthly,Groceries,Member,82
+618,37,Male,4,5,4,4,212.99,Montana,Weekly,Electronics,Member,78
+619,25,Female,3,3,3,3,246.5,Tennessee,Monthly,Clothing,Non-Member,70
+620,33,Male,4,4,5,4,239.85,Idaho,Weekly,Electronics,Member,88
+621,28,Female,3,4,4,3,270.99,Vermont,Rarely,Clothing,Non-Member,68
+622,45,Male,5,5,5,5,231.99,Utah,Weekly,Electronics,Member,92
+623,27,Female,2,3,3,2,257.3,Kansas,Monthly,Groceries,Non-Member,64
+624,34,Male,4,5,4,4,255.25,New Hampshire,Weekly,Electronics,Member,85
+625,28,Female,5,4,4,5,240.99,Rhode Island,Monthly,Clothing,Non-Member,70
+626,42,Male,3,3,4,3,240.25,Arkansas,Rarely,Groceries,Member,92
+627,50,Female,4,5,5,5,263.6,Delaware,Weekly,Electronics,Member,78
+628,22,Male,2,2,3,2,232.85,South Carolina,Daily,Clothing,Non-Member,60
+629,38,Female,5,4,5,5,273.99,Washington,Weekly,Electronics,Member,88
+630,45,Male,4,5,4,4,224.99,Wisconsin,Monthly,Groceries,Non-Member,75
+631,29,Female,3,3,3,3,248.3,Maryland,Rarely,Clothing,Member,68
+632,31,Male,4,4,5,4,241.75,Missouri,Weekly,Electronics,Member,90
+633,26,Female,3,3,4,3,255.99,North Dakota,Monthly,Groceries,Non-Member,72
+634,35,Male,4,5,4,4,226.99,New Jersey,Weekly,Electronics,Member,80
+635,29,Female,3,4,4,4,259.85,Indiana,Monthly,Clothing,Non-Member,67
+636,44,Male,5,5,5,5,247.5,Alabama,Weekly,Electronics,Member,85
+637,27,Female,2,3,3,2,244.99,Louisiana,Rarely,Groceries,Non-Member,62
+638,39,Male,4,4,5,4,221.25,Michigan,Monthly,Electronics,Member,88
+639,23,Female,3,3,4,3,268.3,Iowa,Weekly,Clothing,Non-Member,73
+640,48,Male,5,5,5,5,228.75,Colorado,Weekly,Electronics,Member,90
+641,30,Female,4,4,5,4,250.99,Nebraska,Monthly,Groceries,Member,82
+642,37,Male,4,5,4,4,226.75,Hawaii,Weekly,Electronics,Member,78
+643,25,Female,3,3,3,3,251.25,Ohio,Monthly,Clothing,Non-Member,70
+644,42,Male,4,4,5,4,236.99,Oregon,Weekly,Electronics,Member,88
+645,56,Female,3,4,4,3,219.3,Virginia,Rarely,Clothing,Non-Member,68
+646,29,Male,5,5,5,5,242.25,Kentucky,Weekly,Electronics,Member,92
+647,35,Female,2,3,3,2,232.99,South Dakota,Monthly,Groceries,Non-Member,64
+648,67,Male,4,5,4,4,274.25,Minnesota,Weekly,Electronics,Member,85
+649,23,Female,5,4,4,5,239.5,New Mexico,Monthly,Clothing,Non-Member,70
+650,50,Male,3,3,4,3,266.99,North Carolina,Rarely,Groceries,Member,92
+651,38,Female,4,5,5,5,230.99,Georgia,Weekly,Electronics,Member,78
+652,61,Male,2,2,3,2,253.75,Texas,Daily,Clothing,Non-Member,60
+653,45,Female,5,4,5,5,233.3,Mississippi,Weekly,Electronics,Member,88
+654,27,Male,4,4,5,4,247.99,Nevada,Monthly,Groceries,Non-Member,75
+655,49,Female,3,3,3,3,244.5,West Virginia,Rarely,Clothing,Member,68
+656,32,Male,4,4,5,4,258.3,Maine,Weekly,Electronics,Member,90
+657,54,Female,3,3,4,3,236.3,Arizona,Monthly,Groceries,Non-Member,72
+658,40,Male,4,5,4,4,259.99,Connecticut,Weekly,Electronics,Member,80
+659,58,Female,3,4,4,4,270.99,Illinois,Monthly,Clothing,Non-Member,67
+660,30,Male,5,5,5,5,262.25,Oklahoma,Weekly,Electronics,Member,85
+661,47,Female,2,3,3,2,233.99,Massachusetts,Rarely,Groceries,Non-Member,62
+662,65,Male,4,4,5,4,135.8,Alaska,Monthly,Electronics,Member,88
+663,25,Female,3,3,4,3,75.9,Pennsylvania,Weekly,Clothing,Non-Member,73
+664,33,Male,5,5,5,5,198.75,California,Weekly,Electronics,Member,90
+665,51,Female,4,4,5,4,110.25,Florida,Monthly,Groceries,Member,82
+666,39,Male,4,5,4,4,125.4,Wyoming,Weekly,Electronics,Member,78
+667,68,Female,3,3,3,3,88.2,New York,Monthly,Clothing,Non-Member,70
+668,44,Male,4,4,5,4,120.6,Florida,Weekly,Electronics,Member,88
+669,21,Female,3,4,4,3,99.6,New York,Rarely,Clothing,Non-Member,68
+670,37,Female,5,4,4,5,155.75,New York,Monthly,Clothing,Non-Member,70
+671,70,Male,3,3,4,3,75.2,Texas,Rarely,Groceries,Member,92
+672,22,Female,4,5,5,5,220,Florida,Weekly,Electronics,Member,78
+673,52,Male,2,2,3,2,45.8,California,Daily,Clothing,Non-Member,60
+674,59,Female,5,4,5,5,198.4,New York,Weekly,Electronics,Member,88
+675,28,Male,4,5,4,4,150.6,Texas,Monthly,Groceries,Non-Member,75
+676,66,Female,3,3,3,3,85.3,Florida,Rarely,Clothing,Member,68
+677,46,Male,4,4,5,4,110.25,California,Weekly,Electronics,Member,90
+678,34,Female,3,3,4,3,70.9,New York,Monthly,Groceries,Non-Member,72
+679,55,Male,4,5,4,4,125,Texas,Weekly,Electronics,Member,80
+680,64,Female,3,4,4,4,98.6,California,Monthly,Clothing,Non-Member,67
+681,26,Male,5,5,5,5,210.3,New York,Weekly,Electronics,Member,85
+682,41,Female,2,3,3,2,50.4,Florida,Rarely,Groceries,Non-Member,62
+683,60,Male,4,4,5,4,135.8,California,Monthly,Electronics,Member,88
+684,48,Female,3,3,4,3,75.9,Texas,Weekly,Clothing,Non-Member,73
+685,31,Male,5,5,5,5,198.75,New York,Weekly,Electronics,Member,90
+686,53,Female,4,4,5,4,110.25,Florida,Monthly,Groceries,Member,82
+687,63,Male,4,5,4,4,125.4,California,Weekly,Electronics,Member,78
+688,36,Female,3,3,3,3,78.99,New York,Monthly,Clothing,Non-Member,70
+689,24,Male,4,4,5,4,61.75,Florida,Weekly,Electronics,Member,88
+690,57,Female,3,4,4,3,96.25,New York,Rarely,Clothing,Non-Member,68
+691,43,Male,5,5,5,5,53.49,Montana,Weekly,Electronics,Member,92
+692,62,Female,2,3,3,2,109.99,Tennessee,Monthly,Groceries,Non-Member,64
+693,69,Male,4,5,4,4,85.5,Idaho,Weekly,Electronics,Member,85
+694,28,Female,5,4,4,5,124.6,Vermont,Monthly,Clothing,Non-Member,70
+695,42,Male,3,3,4,3,70.85,Utah,Rarely,Groceries,Member,92
+696,50,Female,4,5,5,5,111.3,Kansas,Weekly,Electronics,Member,78
+697,22,Male,2,2,3,2,85.45,New Hampshire,Daily,Clothing,Non-Member,60
+698,38,Female,5,4,5,5,123.15,Rhode Island,Weekly,Electronics,Member,88
+699,45,Male,4,5,4,4,72.5,Arkansas,Monthly,Groceries,Non-Member,75
+700,29,Female,3,3,3,3,69.8,Delaware,Rarely,Clothing,Member,68
+701,31,Male,4,4,5,4,58.25,South Carolina,Weekly,Electronics,Member,90
+702,26,Female,3,3,4,3,102.5,Washington,Monthly,Groceries,Non-Member,72
+703,35,Male,4,5,4,4,93.99,Wisconsin,Weekly,Electronics,Member,80
+704,29,Female,3,4,4,4,76.75,Maryland,Monthly,Clothing,Non-Member,67
+705,44,Male,5,5,5,5,112.3,Missouri,Weekly,Electronics,Member,85
+706,57,Female,2,3,3,2,53.75,North Dakota,Rarely,Groceries,Non-Member,62
+707,39,Male,4,4,5,4,127.5,New Jersey,Monthly,Electronics,Member,88
+708,62,Female,3,3,4,3,125.6,Indiana,Weekly,Clothing,Non-Member,73
+709,30,Male,5,5,5,5,88.99,Alabama,Weekly,Electronics,Member,90
+710,46,Female,4,4,5,4,59.75,Louisiana,Monthly,Groceries,Member,82
+711,74,Male,4,5,4,4,139.2,Michigan,Weekly,Electronics,Member,78
+712,22,Female,3,3,3,3,128.25,Iowa,Monthly,Clothing,Non-Member,70
+713,65,Male,4,4,5,4,59.5,Colorado,Weekly,Electronics,Member,88
+714,51,Female,3,4,4,3,97.75,Nebraska,Rarely,Clothing,Non-Member,68
+715,35,Male,5,5,5,5,117.99,Hawaii,Weekly,Electronics,Member,92
+716,68,Female,2,3,3,2,138.2,Ohio,Monthly,Groceries,Non-Member,64
+717,54,Male,4,5,4,4,95.99,Oregon,Weekly,Electronics,Member,85
+718,29,Female,5,4,4,5,70.25,Virginia,Monthly,Clothing,Non-Member,70
+719,43,Male,3,3,4,3,119.6,Kentucky,Rarely,Groceries,Member,92
+720,76,Female,4,5,5,5,57.85,South Dakota,Weekly,Electronics,Member,78
+721,48,Male,2,2,3,2,118.99,Minnesota,Daily,Clothing,Non-Member,60
+722,31,Female,5,4,5,5,51.3,New Mexico,Weekly,Electronics,Member,88
+723,63,Male,4,4,5,4,63.5,North Carolina,Monthly,Groceries,Non-Member,75
+724,55,Female,3,3,3,3,88.6,Georgia,Rarely,Clothing,Member,68
+725,42,Male,4,4,5,4,81.75,Texas,Weekly,Electronics,Member,90
+726,26,Female,3,3,4,3,120.45,Mississippi,Monthly,Groceries,Non-Member,72
+727,70,Male,4,5,4,4,52.99,Nevada,Weekly,Electronics,Member,80
+728,33,Female,3,4,4,4,75.99,West Virginia,Monthly,Clothing,Non-Member,67
+729,60,Male,5,5,5,5,110.75,Maine,Weekly,Electronics,Member,85
+730,37,Female,2,3,3,2,139.75,Arizona,Rarely,Groceries,Non-Member,62
+731,78,Male,4,4,5,4,69.5,Connecticut,Monthly,Electronics,Member,88
+732,72,Female,3,3,4,3,107.99,Illinois,Weekly,Clothing,Non-Member,73
+733,58,Male,5,5,5,5,142.6,Oklahoma,Weekly,Electronics,Member,90
+734,80,Female,4,4,5,4,83.25,Massachusetts,Monthly,Groceries,Member,82
+735,50,Male,4,5,4,4,56.99,Alaska,Weekly,Electronics,Member,78
+736,44,Female,3,3,3,3,121.3,Pennsylvania,Monthly,Clothing,Non-Member,70
+737,25,Male,4,4,5,4,80.25,California,Weekly,Electronics,Member,88
+738,66,Female,3,4,4,3,145.5,Florida,Rarely,Clothing,Non-Member,68
+739,36,Male,4,5,5,4,51.6,Wyoming,Weekly,Electronics,Member,85
+740,75,Female,5,4,4,5,91.75,New York,Monthly,Clothing,Non-Member,70
+741,32,Male,3,3,4,3,132.25,Texas,Rarely,Groceries,Member,92
+742,69,Female,4,5,5,5,55.99,Florida,Weekly,Electronics,Member,78
+743,52,Male,2,2,3,2,62.75,California,Daily,Clothing,Non-Member,60
+744,27,Female,5,4,5,5,56.3,New York,Weekly,Electronics,Member,88
+745,64,Male,4,5,4,4,73.5,Texas,Monthly,Groceries,Non-Member,75
+746,47,Female,3,3,3,3,101.6,Florida,Rarely,Clothing,Member,68
+747,34,Male,4,4,5,4,66.99,California,Weekly,Electronics,Member,90
+748,59,Female,3,3,4,3,147.25,New York,Monthly,Groceries,Non-Member,72
+749,28,Male,4,5,4,4,96.5,Texas,Weekly,Electronics,Member,80
+750,71,Female,3,4,4,4,126.75,California,Monthly,Clothing,Non-Member,67
+751,45,Male,5,5,5,5,57.25,New York,Weekly,Electronics,Member,85
+752,73,Female,2,3,3,2,89.99,Florida,Rarely,Groceries,Non-Member,62
+753,61,Male,4,4,5,4,66.25,California,Monthly,Electronics,Member,88
+754,53,Female,3,3,4,3,135.5,Texas,Weekly,Clothing,Non-Member,73
+755,38,Male,5,5,5,5,84.99,New York,Weekly,Electronics,Member,90
+756,49,Female,4,4,5,4,71.6,Florida,Monthly,Groceries,Member,82
+757,79,Male,4,5,4,4,82.75,California,Weekly,Electronics,Member,78
+758,41,Female,3,3,3,3,100.25,New York,Monthly,Clothing,Non-Member,70
+759,67,Male,4,4,5,4,58.99,Texas,Weekly,Electronics,Member,88
+760,24,Female,3,4,4,3,133.3,Florida,Rarely,Groceries,Non-Member,65
+761,77,Male,5,5,5,5,146.75,California,Weekly,Electronics,Member,90
+762,56,Female,2,3,3,2,131.99,New York,Daily,Clothing,Non-Member,63
+763,40,Male,4,4,5,4,52.75,Texas,Weekly,Electronics,Member,80
+764,81,Female,3,3,4,3,77.99,Florida,Monthly,Groceries,Non-Member,72
+765,23,Male,4,5,4,4,103.25,California,Weekly,Electronics,Member,86
+766,37,Female,3,4,4,3,98.5,New York,Rarely,Clothing,Non-Member,68
+767,55,Male,5,5,5,5,68.75,Texas,Weekly,Electronics,Member,92
+768,64,Female,2,3,3,2,143.99,Florida,Monthly,Groceries,Non-Member,64
+769,44,Male,4,5,4,4,64.25,California,Weekly,Electronics,Member,85
+770,29,Female,5,4,4,5,64.99,New York,Monthly,Clothing,Non-Member,70
+771,47,Male,3,3,4,3,74.75,Texas,Rarely,Groceries,Member,92
+772,69,Female,4,5,5,5,54.3,Florida,Weekly,Electronics,Member,78
+773,82,Male,2,2,3,2,104.99,California,Daily,Clothing,Non-Member,60
+774,36,Female,5,4,5,5,94.75,Montana,Weekly,Electronics,Member,88
+775,50,Male,4,5,4,4,99.6,Tennessee,Monthly,Groceries,Non-Member,75
+776,32,Female,3,3,3,3,134.99,Idaho,Rarely,Clothing,Member,68
+777,60,Male,4,4,5,4,79.25,Vermont,Weekly,Electronics,Member,90
+778,71,Female,3,3,4,3,61.99,Utah,Monthly,Groceries,Non-Member,72
+779,83,Male,4,5,4,4,55.75,Kansas,Weekly,Electronics,Member,80
+780,31,Female,3,4,4,4,65.3,New Hampshire,Monthly,Clothing,Non-Member,67
+781,75,Male,5,5,5,5,92.5,Rhode Island,Weekly,Electronics,Member,85
+782,59,Female,2,3,3,2,108.75,Arkansas,Rarely,Groceries,Non-Member,62
+783,48,Male,4,4,5,4,72.99,Delaware,Monthly,Electronics,Member,88
+784,66,Female,3,3,4,3,115.25,South Carolina,Weekly,Clothing,Non-Member,73
+785,30,Male,5,5,5,5,94.99,Washington,Weekly,Electronics,Member,90
+786,68,Female,4,4,5,4,60.75,Wisconsin,Monthly,Groceries,Member,82
+787,78,Male,4,5,4,4,105.3,Maryland,Weekly,Electronics,Member,78
+788,53,Female,3,3,3,3,88.2,Missouri,Monthly,Clothing,Non-Member,70
+789,43,Male,4,4,5,4,120.6,North Dakota,Weekly,Electronics,Member,88
+790,57,Female,3,4,4,3,99.6,New Jersey,Rarely,Clothing,Non-Member,68
+791,80,Male,5,5,5,5,205.4,Indiana,Weekly,Electronics,Member,92
+792,46,Female,2,3,3,2,49.8,Alabama,Monthly,Groceries,Non-Member,64
+793,63,Male,4,5,4,4,120.5,Louisiana,Weekly,Electronics,Member,85
+794,81,Female,5,4,4,5,155.75,Michigan,Monthly,Clothing,Non-Member,70
+795,67,Male,3,3,4,3,75.2,Iowa,Rarely,Groceries,Member,92
+796,70,Female,4,5,5,5,220,Colorado,Weekly,Electronics,Member,78
+797,74,Male,2,2,3,2,45.8,Nebraska,Daily,Clothing,Non-Member,60
+798,62,Female,5,4,5,5,198.4,Hawaii,Weekly,Electronics,Member,88
+799,38,Male,4,5,4,4,150.6,Ohio,Monthly,Groceries,Non-Member,75
+800,72,Female,3,3,3,3,85.3,Oregon,Rarely,Clothing,Member,68
+801,58,Male,4,4,5,4,110.25,Virginia,Weekly,Electronics,Member,90
+802,54,Female,3,3,4,3,70.9,Kentucky,Monthly,Groceries,Non-Member,72
+803,28,Male,4,5,4,4,125,South Dakota,Weekly,Electronics,Member,80
+804,77,Female,3,4,4,4,98.6,Minnesota,Monthly,Clothing,Non-Member,67
+805,76,Male,5,5,5,5,210.3,New Mexico,Weekly,Electronics,Member,85
+806,27,Female,2,3,3,2,50.4,North Carolina,Rarely,Groceries,Non-Member,62
+807,39,Male,4,4,5,4,135.8,Georgia,Monthly,Electronics,Member,88
+808,23,Female,3,3,4,3,75.9,Texas,Weekly,Clothing,Non-Member,73
+809,48,Male,5,5,5,5,198.75,Mississippi,Weekly,Electronics,Member,90
+810,30,Female,4,4,5,4,110.25,Nevada,Monthly,Groceries,Member,82
+811,37,Male,4,5,4,4,125.4,West Virginia,Weekly,Electronics,Member,78
+812,25,Female,3,3,3,3,88.2,Maine,Monthly,Clothing,Non-Member,70
+813,33,Male,4,4,5,4,120.6,Arizona,Weekly,Electronics,Member,88
+814,28,Female,3,4,4,3,99.6,Connecticut,Rarely,Clothing,Non-Member,68
+815,45,Male,5,5,5,5,205.4,Illinois,Weekly,Electronics,Member,92
+816,27,Female,2,3,3,2,49.8,Oklahoma,Monthly,Groceries,Non-Member,64
+817,34,Male,4,5,4,4,120.5,Massachusetts,Weekly,Electronics,Member,85
+818,28,Female,5,4,4,5,155.75,Alaska,Monthly,Clothing,Non-Member,70
+819,42,Male,3,3,4,3,75.2,Pennsylvania,Rarely,Groceries,Member,92
+820,50,Female,4,5,5,5,220,California,Weekly,Electronics,Member,78
+821,22,Male,2,2,3,2,45.8,Florida,Daily,Clothing,Non-Member,60
+822,38,Female,5,4,5,5,198.4,Wyoming,Weekly,Electronics,Member,88
+823,33,Male,4,4,5,4,150.6,New York,Monthly,Groceries,Non-Member,75
+824,29,Female,3,3,3,3,85.3,Florida,Rarely,Clothing,Member,68
+825,31,Male,4,4,5,4,110.25,California,Weekly,Electronics,Member,90
+826,26,Female,3,3,4,3,70.9,New York,Monthly,Groceries,Non-Member,72
+827,35,Male,4,5,4,4,125,Texas,Weekly,Electronics,Member,80
+828,29,Female,3,4,4,4,98.6,California,Monthly,Clothing,Non-Member,67
+829,44,Male,5,5,5,5,210.3,New York,Weekly,Electronics,Member,85
+830,27,Female,2,3,3,2,50.4,Florida,Rarely,Groceries,Non-Member,62
+831,39,Male,4,4,5,4,135.8,California,Monthly,Electronics,Member,88
+832,23,Female,3,3,4,3,75.9,Texas,Weekly,Clothing,Non-Member,73
+833,48,Male,5,5,5,5,198.75,New York,Weekly,Electronics,Member,90
+834,30,Female,4,4,5,4,110.25,Florida,Monthly,Groceries,Member,82
+835,37,Male,4,5,4,4,125.4,California,Weekly,Electronics,Member,78
+836,25,Female,3,3,3,3,88.2,New York,Monthly,Clothing,Non-Member,70
+837,33,Male,4,4,5,4,120.6,Florida,Weekly,Electronics,Member,88
+838,28,Female,3,4,4,3,99.6,New York,Rarely,Clothing,Non-Member,68
