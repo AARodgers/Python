@@ -1,0 +1,550 @@
+StudentID,Technique,Score,PriorGPA
+1001,Standard,85,3.5
+1002,Mnemonics,92,3.7
+1003,Self-testing,89,3.2
+1004,Group Study,87,3.6
+1005,Standard,78,3.1
+1006,Mnemonics,91,3.8
+1007,Self-testing,84,3.4
+1008,Group Study,88,3.9
+1009,Standard,82,3.7
+1010,Mnemonics,98,3.1
+1011,Self-testing,87,3.5
+1012,Group Study,95,3.8
+1013,Standard,89,3.2
+1014,Mnemonics,85,3.7
+1015,Self-testing,93,3.4
+1016,Group Study,77,3.9
+1017,Standard,96,3.6
+1018,Mnemonics,79,3
+1019,Self-testing,83,3.3
+1020,Group Study,88,3.5
+1021,Standard,91,3.8
+1022,Mnemonics,100,3.7
+1023,Self-testing,76,3.4
+1024,Group Study,92,3.2
+1025,Standard,81,3.9
+1026,Mnemonics,86,3.1
+1027,Self-testing,97,3.6
+1028,Group Study,78,3.3
+1029,Standard,90,3.8
+1030,Mnemonics,84,3.7
+1031,Self-testing,94,3.5
+1032,Group Study,82,3.2
+1033,Standard,89,3.9
+1034,Mnemonics,99,3.4
+1035,Self-testing,76,3
+1036,Group Study,91,3.6
+1037,Standard,95,3.8
+1038,Mnemonics,88,3.3
+1039,Self-testing,80,3.5
+1040,Group Study,82,3.1
+1041,Standard,85,3.7
+1042,Mnemonics,97,3.9
+1043,Self-testing,87,3.4
+1044,Group Study,100,3.2
+1045,Standard,96,3.8
+1046,Mnemonics,77,3.6
+1047,Self-testing,84,3.3
+1048,Group Study,93,3.5
+1049,Standard,78,3.7
+1050,Mnemonics,89,3.2
+1051,Self-testing,86,3.9
+1052,Group Study,95,3
+1053,Standard,83,3.4
+1054,Mnemonics,92,3.1
+1055,Self-testing,79,3.6
+1056,Group Study,88,3.5
+1057,Standard,98,3.8
+1058,Mnemonics,91,3.7
+1059,Self-testing,81,3.9
+1060,Group Study,85,3.5
+1061,Standard,92,3.7
+1062,Mnemonics,89,3.2
+1063,Self-testing,87,3.6
+1064,Group Study,78,3.1
+1065,Standard,91,3.8
+1066,Mnemonics,84,3.4
+1067,Self-testing,88,3.9
+1068,Group Study,82,3.7
+1069,Standard,98,3.1
+1070,Mnemonics,87,3.5
+1071,Self-testing,95,3.8
+1072,Group Study,89,3.2
+1073,Standard,85,3.7
+1074,Mnemonics,93,3.4
+1075,Self-testing,77,3.9
+1076,Group Study,96,3.6
+1077,Standard,79,3
+1078,Mnemonics,83,3.3
+1079,Self-testing,88,3.5
+1080,Group Study,91,3.8
+1081,Standard,100,3.7
+1082,Mnemonics,76,3.4
+1083,Self-testing,92,3.2
+1084,Group Study,81,3.9
+1085,Standard,86,3.1
+1086,Mnemonics,97,3.6
+1087,Self-testing,78,3.3
+1088,Group Study,90,3.8
+1089,Standard,84,3.7
+1090,Mnemonics,94,3.5
+1091,Self-testing,82,3.2
+1092,Group Study,89,3.9
+1093,Standard,99,3.4
+1094,Mnemonics,76,3
+1095,Self-testing,91,3.6
+1096,Group Study,95,3.8
+1097,Standard,88,3.3
+1098,Mnemonics,80,3.5
+1099,Self-testing,82,3.1
+1100,Group Study,85,3.7
+1101,Standard,97,3.9
+1102,Mnemonics,87,3.4
+1103,Self-testing,100,3.2
+1104,Group Study,96,3.8
+1105,Standard,77,3.6
+1106,Mnemonics,84,3.3
+1107,Self-testing,93,3.5
+1108,Group Study,78,3.7
+1109,Standard,89,3.2
+1110,Mnemonics,86,3.9
+1111,Self-testing,95,3
+1112,Group Study,83,3.4
+1113,Standard,92,3.1
+1114,Mnemonics,79,3.6
+1115,Self-testing,88,3.5
+1116,Group Study,98,3.8
+1117,Standard,91,3.7
+1118,Mnemonics,81,3.9
+1119,Self-testing,85,3.5
+1120,Group Study,92,3.7
+1121,Standard,89,3.2
+1122,Mnemonics,87,3.6
+1123,Self-testing,78,3.1
+1124,Group Study,91,3.8
+1125,Standard,84,3.4
+1126,Mnemonics,88,3.9
+1127,Self-testing,82,3.7
+1128,Group Study,98,3.1
+1129,Standard,87,3.5
+1130,Mnemonics,95,3.8
+1131,Self-testing,89,3.2
+1132,Group Study,85,3.7
+1133,Standard,93,3.4
+1134,Mnemonics,77,3.9
+1135,Self-testing,96,3.6
+1136,Group Study,79,3
+1137,Standard,83,3.3
+1138,Mnemonics,88,3.5
+1139,Self-testing,91,3.8
+1140,Group Study,100,3.7
+1141,Standard,76,3.4
+1142,Mnemonics,92,3.2
+1143,Self-testing,81,3.9
+1144,Group Study,86,3.1
+1145,Standard,97,3.6
+1146,Mnemonics,78,3.3
+1147,Self-testing,90,3.8
+1148,Group Study,84,3.7
+1149,Standard,94,3.5
+1150,Mnemonics,82,3.2
+1151,Self-testing,89,3.9
+1152,Group Study,99,3.4
+1153,Standard,76,3
+1154,Mnemonics,91,3.6
+1155,Self-testing,95,3.8
+1156,Group Study,88,3.3
+1157,Standard,80,3.5
+1158,Mnemonics,82,3.1
+1159,Self-testing,85,3.7
+1160,Group Study,97,3.9
+1161,Standard,87,3.4
+1162,Mnemonics,100,3.2
+1163,Self-testing,96,3.8
+1164,Group Study,77,3.6
+1165,Standard,84,3.3
+1166,Mnemonics,93,3.5
+1167,Self-testing,78,3.7
+1168,Group Study,89,3.2
+1169,Standard,86,3.9
+1170,Mnemonics,95,3
+1171,Self-testing,83,3.4
+1172,Group Study,92,3.1
+1173,Standard,79,3.6
+1174,Mnemonics,88,3.5
+1175,Self-testing,98,3.8
+1176,Group Study,91,3.7
+1177,Standard,81,3.9
+1178,Mnemonics,85,3.5
+1179,Self-testing,92,3.7
+1180,Group Study,89,3.2
+1181,Standard,87,3.6
+1182,Mnemonics,78,3.1
+1183,Self-testing,91,3.8
+1184,Group Study,84,3.4
+1185,Standard,88,3.9
+1186,Mnemonics,82,3.7
+1187,Self-testing,98,3.1
+1188,Group Study,87,3.5
+1189,Standard,95,3.8
+1190,Mnemonics,89,3.2
+1191,Self-testing,85,3.7
+1192,Group Study,93,3.4
+1193,Standard,77,3.9
+1194,Mnemonics,96,3.6
+1195,Self-testing,79,3
+1196,Group Study,83,3.3
+1197,Standard,88,3.5
+1198,Mnemonics,91,3.8
+1199,Self-testing,100,3.7
+1200,Group Study,76,3.4
+1201,Standard,92,3.2
+1202,Mnemonics,81,3.9
+1203,Self-testing,86,3.1
+1204,Group Study,97,3.6
+1205,Standard,78,3.3
+1206,Mnemonics,90,3.8
+1207,Self-testing,84,3.7
+1208,Group Study,94,3.5
+1209,Standard,82,3.2
+1210,Mnemonics,89,3.9
+1211,Self-testing,99,3.4
+1212,Group Study,76,3
+1213,Standard,91,3.6
+1214,Mnemonics,95,3.8
+1215,Self-testing,88,3.3
+1216,Group Study,80,3.5
+1217,Standard,82,3.1
+1218,Mnemonics,85,3.7
+1219,Self-testing,97,3.9
+1220,Group Study,87,3.4
+1221,Standard,100,3.2
+1222,Mnemonics,96,3.8
+1223,Self-testing,77,3.6
+1224,Group Study,84,3.3
+1225,Standard,93,3.5
+1226,Mnemonics,78,3.7
+1227,Self-testing,89,3.2
+1228,Group Study,86,3.9
+1229,Standard,95,3
+1230,Mnemonics,83,3.4
+1231,Self-testing,92,3.1
+1232,Group Study,79,3.6
+1233,Standard,88,3.5
+1234,Mnemonics,98,3.8
+1235,Self-testing,91,3.7
+1236,Group Study,81,3.9
+1237,Standard,85,3.5
+1238,Mnemonics,92,3.7
+1239,Self-testing,89,3.2
+1240,Group Study,87,3.6
+1241,Standard,78,3.1
+1242,Mnemonics,91,3.8
+1243,Self-testing,84,3.4
+1244,Group Study,88,3.9
+1245,Standard,82,3.7
+1246,Mnemonics,98,3.1
+1247,Self-testing,87,3.5
+1248,Group Study,95,3.8
+1249,Standard,89,3.2
+1250,Mnemonics,85,3.7
+1251,Self-testing,93,3.4
+1252,Group Study,77,3.9
+1253,Standard,96,3.6
+1254,Mnemonics,79,3
+1255,Self-testing,83,3.3
+1256,Group Study,88,3.5
+1257,Standard,91,3.8
+1258,Mnemonics,100,3.7
+1259,Self-testing,76,3.4
+1260,Group Study,92,3.2
+1261,Standard,81,3.9
+1262,Mnemonics,86,3.1
+1263,Self-testing,97,3.6
+1264,Group Study,78,3.3
+1265,Standard,90,3.8
+1266,Mnemonics,84,3.7
+1267,Self-testing,94,3.5
+1268,Group Study,82,3.2
+1269,Standard,89,3.9
+1270,Mnemonics,99,3.4
+1271,Self-testing,76,3
+1272,Group Study,91,3.6
+1273,Standard,95,3.8
+1274,Mnemonics,88,3.3
+1275,Self-testing,80,3.5
+1276,Group Study,82,3.1
+1277,Standard,85,3.7
+1278,Mnemonics,97,3.9
+1279,Self-testing,87,3.4
+1280,Group Study,100,3.2
+1281,Standard,96,3.8
+1282,Mnemonics,77,3.6
+1283,Self-testing,84,3.3
+1284,Group Study,93,3.5
+1285,Standard,78,3.7
+1286,Mnemonics,89,3.2
+1287,Self-testing,86,3.9
+1288,Group Study,95,3
+1289,Standard,83,3.4
+1290,Mnemonics,92,3.1
+1291,Self-testing,79,3.6
+1292,Group Study,88,3.5
+1293,Standard,98,3.7
+1294,Mnemonics,91,3.2
+1295,Self-testing,81,3.6
+1296,Group Study,85,3.1
+1297,Standard,92,3.8
+1298,Mnemonics,89,3.4
+1299,Self-testing,87,3.9
+1300,Group Study,78,3.7
+1301,Standard,91,3.1
+1302,Mnemonics,84,3.5
+1303,Self-testing,88,3.8
+1304,Group Study,82,3.2
+1305,Standard,98,3.7
+1306,Mnemonics,87,3.4
+1307,Self-testing,95,3.9
+1308,Group Study,89,3.6
+1309,Standard,85,3
+1310,Mnemonics,93,3.3
+1311,Self-testing,77,3.5
+1312,Group Study,96,3.8
+1313,Standard,79,3.7
+1314,Mnemonics,83,3.4
+1315,Self-testing,88,3.2
+1316,Group Study,91,3.9
+1317,Standard,100,3.1
+1318,Mnemonics,76,3.6
+1319,Self-testing,92,3.3
+1320,Group Study,81,3.8
+1321,Standard,86,3.7
+1322,Mnemonics,97,3.5
+1323,Self-testing,78,3.2
+1324,Group Study,90,3.9
+1325,Standard,84,3.4
+1326,Mnemonics,94,3
+1327,Self-testing,82,3.6
+1328,Group Study,89,3.8
+1329,Standard,99,3.3
+1330,Mnemonics,76,3.5
+1331,Self-testing,91,3.1
+1332,Group Study,95,3.7
+1333,Standard,88,3.9
+1334,Mnemonics,80,3.4
+1335,Self-testing,82,3.2
+1336,Group Study,85,3.8
+1337,Standard,97,3.6
+1338,Mnemonics,87,3.3
+1339,Self-testing,100,3.5
+1340,Group Study,96,3.7
+1341,Standard,77,3.2
+1342,Mnemonics,84,3.9
+1343,Self-testing,93,3
+1344,Group Study,78,3.4
+1345,Standard,89,3.1
+1346,Mnemonics,86,3.6
+1347,Self-testing,95,3.5
+1348,Group Study,83,3.5
+1349,Standard,85,3.7
+1350,Mnemonics,92,3.2
+1351,Self-testing,89,3.6
+1352,Group Study,87,3.1
+1353,Standard,78,3.8
+1354,Mnemonics,91,3.4
+1355,Self-testing,84,3.9
+1356,Group Study,88,3.7
+1357,Standard,82,3.1
+1358,Mnemonics,98,3.5
+1359,Self-testing,87,3.8
+1360,Group Study,95,3.2
+1361,Standard,89,3.7
+1362,Mnemonics,85,3.4
+1363,Self-testing,93,3.9
+1364,Group Study,77,3.6
+1365,Standard,96,3
+1366,Mnemonics,79,3.3
+1367,Self-testing,83,3.5
+1368,Group Study,88,3.8
+1369,Standard,91,3.7
+1370,Mnemonics,100,3.4
+1371,Self-testing,76,3.2
+1372,Group Study,92,3.9
+1373,Standard,81,3.1
+1374,Mnemonics,86,3.6
+1375,Self-testing,97,3.3
+1376,Group Study,78,3.8
+1377,Standard,90,3.7
+1378,Mnemonics,84,3.5
+1379,Self-testing,94,3.2
+1380,Group Study,82,3.9
+1381,Standard,89,3.4
+1382,Mnemonics,99,3
+1383,Self-testing,76,3.6
+1384,Group Study,91,3.8
+1385,Standard,95,3.3
+1386,Mnemonics,88,3.5
+1387,Self-testing,80,3.1
+1388,Group Study,82,3.7
+1389,Standard,85,3.9
+1390,Mnemonics,97,3.4
+1391,Self-testing,87,3.2
+1392,Group Study,100,3.8
+1393,Standard,96,3.6
+1394,Mnemonics,77,3.3
+1395,Self-testing,84,3.5
+1396,Group Study,93,3.7
+1397,Standard,78,3.5
+1398,Mnemonics,89,3.7
+1399,Self-testing,86,3.2
+1400,Group Study,95,3.6
+1401,Standard,83,3.1
+1402,Mnemonics,92,3.8
+1403,Self-testing,79,3.4
+1404,Group Study,88,3.9
+1405,Standard,98,3.7
+1406,Mnemonics,91,3.1
+1407,Self-testing,81,3.5
+1408,Group Study,77,3.8
+1409,Standard,84,3.2
+1410,Mnemonics,93,3.7
+1411,Self-testing,78,3.4
+1412,Group Study,89,3.9
+1413,Standard,86,3.6
+1414,Mnemonics,95,3
+1415,Self-testing,83,3.3
+1416,Group Study,92,3.5
+1417,Standard,79,3.8
+1418,Mnemonics,88,3.7
+1419,Self-testing,98,3.4
+1420,Group Study,91,3.2
+1421,Standard,81,3.9
+1422,Mnemonics,85,3.1
+1423,Self-testing,92,3.6
+1424,Group Study,89,3.3
+1425,Standard,87,3.8
+1426,Mnemonics,78,3.7
+1427,Self-testing,91,3.5
+1428,Group Study,84,3.2
+1429,Standard,88,3.9
+1430,Mnemonics,82,3.4
+1431,Self-testing,98,3
+1432,Group Study,87,3.6
+1433,Standard,95,3.8
+1434,Mnemonics,89,3.3
+1435,Self-testing,85,3.5
+1436,Group Study,93,3.1
+1437,Standard,77,3.7
+1438,Mnemonics,96,3.9
+1439,Self-testing,79,3.4
+1440,Group Study,83,3.2
+1441,Standard,88,3.8
+1442,Mnemonics,91,3.6
+1443,Self-testing,100,3.3
+1444,Group Study,76,3.5
+1445,Standard,92,3.7
+1446,Mnemonics,81,3.5
+1447,Self-testing,86,3.7
+1448,Group Study,97,3.2
+1449,Standard,78,3.6
+1450,Mnemonics,90,3.1
+1451,Self-testing,84,3.8
+1452,Group Study,94,3.4
+1453,Standard,82,3.9
+1454,Mnemonics,89,3.7
+1455,Self-testing,99,3.1
+1456,Group Study,76,3.5
+1457,Standard,91,3.8
+1458,Mnemonics,95,3.2
+1459,Self-testing,88,3.7
+1460,Group Study,80,3.4
+1461,Standard,82,3.9
+1462,Mnemonics,85,3.6
+1463,Self-testing,97,3
+1464,Group Study,87,3.3
+1465,Standard,100,3.5
+1466,Mnemonics,96,3.8
+1467,Self-testing,77,3.7
+1468,Group Study,84,3.4
+1469,Standard,93,3.2
+1470,Mnemonics,78,3.9
+1471,Self-testing,89,3.1
+1472,Group Study,86,3.6
+1473,Standard,95,3.3
+1474,Mnemonics,83,3.8
+1475,Self-testing,92,3.7
+1476,Group Study,79,3.5
+1477,Standard,88,3.2
+1478,Mnemonics,98,3.9
+1479,Self-testing,91,3.4
+1480,Group Study,81,3
+1481,Standard,85,3.6
+1482,Mnemonics,92,3.8
+1483,Self-testing,89,3.3
+1484,Group Study,87,3.5
+1485,Standard,78,3.1
+1486,Mnemonics,91,3.7
+1487,Self-testing,84,3.9
+1488,Group Study,88,3.4
+1489,Standard,82,3.2
+1490,Mnemonics,98,3.8
+1491,Self-testing,87,3.6
+1492,Group Study,95,3.3
+1493,Standard,89,3.5
+1494,Mnemonics,85,3.7
+1495,Self-testing,93,3.2
+1496,Group Study,77,3.9
+1497,Standard,96,3.5
+1498,Mnemonics,79,3.7
+1499,Self-testing,83,3.2
+1500,Group Study,88,3.6
+1501,Standard,91,3.1
+1502,Mnemonics,100,3.8
+1503,Self-testing,76,3.4
+1504,Group Study,92,3.9
+1505,Standard,81,3.7
+1506,Mnemonics,86,3.1
+1507,Self-testing,97,3.5
+1508,Group Study,78,3.8
+1509,Standard,90,3.2
+1510,Mnemonics,84,3.7
+1511,Self-testing,94,3.4
+1512,Group Study,82,3.9
+1513,Standard,89,3.6
+1514,Mnemonics,99,3
+1515,Self-testing,76,3.3
+1516,Group Study,91,3.5
+1517,Standard,95,3.8
+1518,Mnemonics,88,3.7
+1519,Self-testing,80,3.4
+1520,Group Study,82,3.2
+1521,Standard,85,3.9
+1522,Mnemonics,97,3.1
+1523,Self-testing,87,3.6
+1524,Group Study,100,3.3
+1525,Standard,96,3.8
+1526,Mnemonics,77,3.7
+1527,Self-testing,84,3.5
+1528,Group Study,93,3.2
+1529,Standard,78,3.9
+1530,Mnemonics,89,3.4
+1531,Self-testing,86,3
+1532,Group Study,95,3.6
+1533,Standard,83,3.8
+1534,Mnemonics,92,3.3
+1535,Self-testing,79,3.5
+1536,Group Study,88,3.1
+1537,Standard,98,3.7
+1538,Mnemonics,91,3.9
+1539,Self-testing,81,3.4
+1540,Group Study,85,3.2
+1541,Standard,92,3.8
+1542,Mnemonics,89,3.6
+1543,Self-testing,87,3.3
+1544,Group Study,78,3.5
+1545,Standard,91,3.7
+1546,Mnemonics,84,3.2
+1547,Self-testing,88,3.9
+1548,Group Study,82,3
+1549,Standard,98,3.4
